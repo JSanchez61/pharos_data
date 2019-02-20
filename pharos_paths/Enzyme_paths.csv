@@ -1,0 +1,349 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+30,5'-nucleotidase,5NTD_HUMAN,P21589,23,5_nucleotidase,./Nuclearfactors_Denise/decoys_5_nucleotidase.sdf
+59,Disintegrin and metalloproteinase domain-containing protein 10,ADA10_HUMAN,O14672,207,disintegrin_and_metalloproteinase_domain_containing_protein_10,
+61,Disintegrin and metalloproteinase domain-containing protein 17,ADA17_HUMAN,P78536,1347,disintegrin_and_metalloproteinase_domain_containing_protein_17,
+70,Adenosine deaminase,ADA_HUMAN,P00813,54,adenosine_deaminase,
+144,Acetylcholinesterase,ACES_HUMAN,P22303,2771,acetylcholinesterase,
+153,Acyl-CoA desaturase,ACOD_HUMAN,O00767,502,acyl_coa_desaturase,
+156,Acrosin,ACRO_HUMAN,P10323,26,acrosin,
+179,"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",AADAT_HUMAN,Q8N5Z0,109,kynureninealpha_aminoadipate_aminotransferase_mitochondrial,
+211,Disintegrin and metalloproteinase domain-containing protein 9,ADAM9_HUMAN,Q13443,26,disintegrin_and_metalloproteinase_domain_containing_protein_9,
+232,Disintegrin and metalloproteinase domain-containing protein 33,ADA33_HUMAN,Q9BZ11,16,disintegrin_and_metalloproteinase_domain_containing_protein_33,
+235,Disintegrin and metalloproteinase domain-containing protein 8,ADAM8_HUMAN,P78325,15,disintegrin_and_metalloproteinase_domain_containing_protein_8,
+249,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,ALKB3_HUMAN,Q96Q83,18,alpha_ketoglutarate_dependent_dioxygenase_alkb_homolog_3,
+402,Monoacylglycerol lipase ABHD6,ABHD6_HUMAN,Q9BV23,32,monoacylglycerol_lipase_abhd6,
+411,Acetyl-CoA carboxylase 2,ACACB_HUMAN,O00763,2021,acetyl_coa_carboxylase_2,
+429,ATP-citrate synthase,ACLY_HUMAN,P53396,27,atp_citrate_synthase,./Enzyme_Denise/decoys_atp_citrate_synthase.sdf
+476,Acetyl-CoA carboxylase 1,ACACA_HUMAN,Q13085,281,acetyl_coa_carboxylase_1,
+481,Angiotensin-converting enzyme 2,ACE2_HUMAN,Q9BYF1,62,angiotensin_converting_enzyme_2,./Enzyme_Denise/decoys_angiotensin_converting_enzyme_2.sdf
+483,Angiotensin-converting enzyme,ACE_HUMAN,P12821,427,angiotensin_converting_enzyme,./Enzyme_Denise/decoys_angiotensin_converting_enzyme.sdf
+485,Alcohol dehydrogenase class-3,ADHX_HUMAN,P11766,34,alcohol_dehydrogenase_class_3,
+521,Aldose reductase,ALDR_HUMAN,P15121,553,aldose_reductase,./Enzyme_Denise/decoys_aldose_reductase.sdf
+543,Adenylate cyclase type 1,ADCY1_HUMAN,Q08828,44,adenylate_cyclase_type_1,
+572,Retinal dehydrogenase 1,AL1A1_HUMAN,P00352,25,retinal_dehydrogenase_1,./Enzyme_Denise/decoys_retinal_dehydrogenase_1.sdf
+577,"Aldehyde dehydrogenase, mitochondrial",ALDH2_HUMAN,P05091,96,aldehyde_dehydrogenase_mitochondrial,
+592,"7,8-dihydro-8-oxoguanine triphosphatase",8ODP_HUMAN,P36639,28,78_dihydro_8_oxoguanine_triphosphatase,
+728,FAD-linked sulfhydryl oxidase ALR,ALR_HUMAN,P55789,453,fad_linked_sulfhydryl_oxidase_alr,
+735,Aminopeptidase N,AMPN_HUMAN,P15144,97,aminopeptidase_n,./Enzyme_Denise/decoys_aminopeptidase_n.sdf
+756,Amine oxidase [flavin-containing] B,AOFB_HUMAN,P27338,1345,amine_oxidase_flavin_containing_b,
+781,Arginase-1,ARGI1_HUMAN,P05089,43,arginase_1,./Enzyme_Denise/decoys_arginase_1.sdf
+782,"Arginase-2, mitochondrial",ARGI2_HUMAN,P78540,33,arginase_2_mitochondrial,./Enzyme_Denise/decoys_arginase_2_mitochondrial.sdf
+865,Cytosol aminopeptidase,AMPL_HUMAN,P28838,37,cytosol_aminopeptidase,
+1028,Amine oxidase [flavin-containing] A,AOFA_HUMAN,P21397,543,amine_oxidase_flavin_containing_a,
+1054,Aldo-keto reductase family 1 member B10,AK1BA_HUMAN,O60218,74,aldo_keto_reductase_family_1_member_b10,
+1064,Arachidonate 5-lipoxygenase-activating protein,AL5AP_HUMAN,P20292,2236,arachidonate_5_lipoxygenase_activating_protein,./Enzyme_Denise/decoys_arachidonate_5_lipoxygenase_activating_protein.sdf
+1074,AMP deaminase 3,AMPD3_HUMAN,Q01432,27,amp_deaminase_3,./Enzyme_Denise/decoys_amp_deaminase_3.sdf
+1166,Aldo-keto reductase family 1 member C1,AK1C1_HUMAN,Q04828,39,aldo_keto_reductase_family_1_member_c1,
+1167,Aldo-keto reductase family 1 member C2,AK1C2_HUMAN,P52895,42,aldo_keto_reductase_family_1_member_c2,
+1168,Aldo-keto reductase family 1 member C3,AK1C3_HUMAN,P42330,319,aldo_keto_reductase_family_1_member_c3,
+1180,"Aldehyde dehydrogenase, dimeric NADP-preferring",AL3A1_HUMAN,P30838,19,aldehyde_dehydrogenase_dimeric_nadp_preferring,
+1199,Glutamyl aminopeptidase,AMPE_HUMAN,Q07075,45,glutamyl_aminopeptidase,./Enzyme_Denise/decoys_glutamyl_aminopeptidase.sdf
+1232,Membrane primary amine oxidase,AOC3_HUMAN,Q16853,141,membrane_primary_amine_oxidase,./Enzyme_Denise/decoys_membrane_primary_amine_oxidase.sdf
+1518,Acid ceramidase,ASAH1_HUMAN,Q13510,42,acid_ceramidase,
+1565,A disintegrin and metalloproteinase with thrombospondin motifs 4,ATS4_HUMAN,O75173,155,a_disintegrin_and_metalloproteinase_with_thrombospondin_motifs_4,
+1566,A disintegrin and metalloproteinase with thrombospondin motifs 5,ATS5_HUMAN,Q9UNA0,222,a_disintegrin_and_metalloproteinase_with_thrombospondin_motifs_5,
+1583,Beta-secretase 1,BACE1_HUMAN,P56817,5473,beta_secretase_1,./Enzyme_Denise/decoys_beta_secretase_1.sdf
+1584,Beta-secretase 2,BACE2_HUMAN,Q9Y5Z0,447,beta_secretase_2,./Enzyme_Denise/decoys_beta_secretase_2.sdf
+1687,Carbonic anhydrase 3,CAH3_HUMAN,P07451,16,carbonic_anhydrase_3,
+1688,"Carbonic anhydrase 5B, mitochondrial",CAH5B_HUMAN,Q9Y2D0,163,carbonic_anhydrase_5b_mitochondrial,
+1689,Carbonic anhydrase 6,CAH6_HUMAN,P23280,203,carbonic_anhydrase_6,
+1690,Carbonic anhydrase 7,CAH7_HUMAN,P43166,668,carbonic_anhydrase_7,
+1691,Carbonic anhydrase 9,CAH9_HUMAN,Q16790,3262,carbonic_anhydrase_9,
+1707,Cathepsin D,CATD_HUMAN,P07339,600,cathepsin_d,
+1708,Cathepsin G,CATG_HUMAN,P08311,78,cathepsin_g,
+1709,Cathepsin K,CATK_HUMAN,P43235,1585,cathepsin_k,
+1729,Carboxypeptidase B2,CBPB2_HUMAN,Q96IY4,162,carboxypeptidase_b2,
+1778,Carbonic anhydrase 14,CAH14_HUMAN,Q9ULX7,510,carbonic_anhydrase_14,
+1816,"Cytochrome P450 11B1, mitochondrial",C11B1_HUMAN,P15538,605,cytochrome_p450_11b1_mitochondrial,
+1976,Carbonic anhydrase 13,CAH13_HUMAN,Q8N1Q1,243,carbonic_anhydrase_13,
+1977,Carbonic anhydrase 1,CAH1_HUMAN,P00915,3921,carbonic_anhydrase_1,
+2138,Carbonic anhydrase 4,CAH4_HUMAN,P22748,304,carbonic_anhydrase_4,
+2139,"Carbonic anhydrase 5A, mitochondrial",CAH5A_HUMAN,P35218,213,carbonic_anhydrase_5a_mitochondrial,
+2173,"Branched-chain-amino-acid aminotransferase, mitochondrial",BCAT2_HUMAN,O15382,72,branched_chain_amino_acid_aminotransferase_mitochondrial,./Enzyme_Denise/decoys_branched_chain_amino_acid_aminotransferase_mitochondrial.sdf
+2229,Caspase-1,CASP1_HUMAN,P29466,430,caspase_1,
+2230,Caspase-2,CASP2_HUMAN,P42575,30,caspase_2,
+2231,Caspase-7,CASP7_HUMAN,P55210,366,caspase_7,
+2242,Carboxypeptidase N catalytic chain,CBPN_HUMAN,P15169,17,carboxypeptidase_n_catalytic_chain,
+2298,Caspase-3,CASP3_HUMAN,P42574,901,caspase_3,
+2299,Caspase-6,CASP6_HUMAN,P55212,65,caspase_6,
+2300,Caspase-8,CASP8_HUMAN,Q14790,124,caspase_8,
+2303,Cathepsin B,CATB_HUMAN,P07858,517,cathepsin_b,
+2304,Cathepsin E,CATE_HUMAN,P14091,60,cathepsin_e,
+2305,Cathepsin F,CATF_HUMAN,Q9UBX1,26,cathepsin_f,
+2356,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,CD38_HUMAN,P28907,63,adp_ribosyl_cyclasecyclic_adp_ribose_hydrolase_1,
+2375,Pro-cathepsin H,CATH_HUMAN,P09668,17,pro_cathepsin_h,./Enzyme_Denise/decoys_pro_cathepsin_h.sdf
+2377,Cathepsin L1,CATL1_HUMAN,P07711,830,cathepsin_l1,
+2378,Cathepsin L2,CATL2_HUMAN,O60911,71,cathepsin_l2,
+2380,Cathepsin S,CATS_HUMAN,P25774,1821,cathepsin_s,
+2384,Carboxypeptidase A1,CBPA1_HUMAN,P15085,15,carboxypeptidase_a1,
+2387,Carboxypeptidase B,CBPB1_HUMAN,P15086,38,carboxypeptidase_b,
+2647,Ceramide glucosyltransferase,CEGT_HUMAN,Q16739,144,ceramide_glucosyltransferase,
+2740,Carbonic anhydrase 12,CAH12_HUMAN,O43570,2506,carbonic_anhydrase_12,./Enzyme_Denise/decoys_carbonic_anhydrase_12.sdf
+2741,Carbonic anhydrase 2,CAH2_HUMAN,P00918,6989,carbonic_anhydrase_2,
+2754,Dipeptidyl peptidase 1,CATC_HUMAN,P53634,694,dipeptidyl_peptidase_1,
+3015,Complement factor D,CFAD_HUMAN,P00746,608,complement_factor_d,
+3136,Cytidine deaminase,CDD_HUMAN,P32320,22,cytidine_deaminase,
+3216,Catechol O-methyltransferase,COMT_HUMAN,P21964,65,catechol_o_methyltransferase,
+3238,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",CP24A_HUMAN,Q07973,74,125_dihydroxyvitamin_d(3)_24_hydroxylase_mitochondrial,
+3239,Cytochrome P450 26A1,CP26A_HUMAN,O43174,117,cytochrome_p450_26a1,
+3307,Cholinesterase,CHLE_HUMAN,P06276,1020,cholinesterase,
+3358,Chymase,CMA1_HUMAN,P23946,382,chymase,
+3421,Lanosterol 14-alpha demethylase,CP51A_HUMAN,Q16850,18,lanosterol_14_alpha_demethylase,
+3446,Aromatase,CP19A_HUMAN,P11511,1683,aromatase,./Enzyme_Denise/decoys_aromatase.sdf
+3460,"Carnitine O-palmitoyltransferase 1, liver isoform",CPT1A_HUMAN,P50416,476,carnitine_o_palmitoyltransferase_1_liver_isoform,
+3461,"Carnitine O-palmitoyltransferase 2, mitochondrial",CPT2_HUMAN,P23786,36,carnitine_o_palmitoyltransferase_2_mitochondrial,
+3507,Cytochrome P450 3A4,CP3A4_HUMAN,P08684,81,cytochrome_p450_3a4,
+3526,Chymotrypsinogen B,CTRB1_HUMAN,P17538,44,chymotrypsinogen_b,
+3527,Chymotrypsin-C,CTRC_HUMAN,Q99895,43,chymotrypsin_c,
+3616,Cytochrome P450 2D6,CP2D6_HUMAN,P10635,46,cytochrome_p450_2d6,
+3621,"Carnitine O-palmitoyltransferase 1, muscle isoform",CPT1B_HUMAN,Q92523,50,carnitine_o_palmitoyltransferase_1_muscle_isoform,
+4161,"Malonyl-CoA decarboxylase, mitochondrial",DCMC_HUMAN,O95822,328,malonyl_coa_decarboxylase_mitochondrial,
+4215,"Steroid 17-alpha-hydroxylase/17,20 lyase",CP17A_HUMAN,P05093,574,steroid_17_alpha_hydroxylase1720_lyase,
+4409,Sn1-specific diacylglycerol lipase alpha,DGLA_HUMAN,Q9Y4D2,96,sn1_specific_diacylglycerol_lipase_alpha,./Enzyme_Denise/decoys_sn1_specific_diacylglycerol_lipase_alpha.sdf
+4416,Sorbitol dehydrogenase,DHSO_HUMAN,Q00796,75,sorbitol_dehydrogenase,./Enzyme_Denise/decoys_sorbitol_dehydrogenase.sdf
+4443,Testosterone 17-beta-dehydrogenase 3,DHB3_HUMAN,P37058,209,testosterone_17_beta_dehydrogenase_3,
+4592,Corticosteroid 11-beta-dehydrogenase isozyme 1,DHI1_HUMAN,P28845,3475,corticosteroid_11_beta_dehydrogenase_isozyme_1,
+4617,dCTP pyrophosphatase 1,DCTP1_HUMAN,Q9H773,28,dctp_pyrophosphatase_1,
+4627,"Peptide deformylase, mitochondrial",DEFM_HUMAN,Q9HBH1,35,peptide_deformylase_mitochondrial,
+4638,Diacylglycerol O-acyltransferase 1,DGAT1_HUMAN,O75907,765,diacylglycerol_o_acyltransferase_1,
+4648,Estradiol 17-beta-dehydrogenase 1,DHB1_HUMAN,P14061,356,estradiol_17_beta_dehydrogenase_1,
+4649,Estradiol 17-beta-dehydrogenase 2,DHB2_HUMAN,P37059,322,estradiol_17_beta_dehydrogenase_2,
+4652,Corticosteroid 11-beta-dehydrogenase isozyme 2,DHI2_HUMAN,P80365,57,corticosteroid_11_beta_dehydrogenase_isozyme_2,
+4781,Dipeptidyl peptidase 8,DPP8_HUMAN,Q6V1X1,321,dipeptidyl_peptidase_8,
+4782,Dipeptidyl peptidase 9,DPP9_HUMAN,Q86TI2,241,dipeptidyl_peptidase_9,
+4922,Dipeptidyl peptidase 2,DPP2_HUMAN,Q9UHL4,260,dipeptidyl_peptidase_2,
+4923,Dipeptidyl peptidase 4,DPP4_HUMAN,P27487,3624,dipeptidyl_peptidase_4,
+4982,Dual specificity protein phosphatase 3,DUS3_HUMAN,P51452,29,dual_specificity_protein_phosphatase_3,
+4983,"Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial",DUT_HUMAN,P33316,175,deoxyuridine_5_triphosphate_nucleotidohydrolase_mitochondrial,./Nuclearfactors_Denise/decoys_deoxyuridine_5_triphosphate_nucleotidohydrolase_mitochondrial.sdf
+4998,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",EBP_HUMAN,Q15125,39,3_beta_hydroxysteroid_delta(8)delta(7)_isomerase,
+5044,DNA (cytosine-5)-methyltransferase 1,DNMT1_HUMAN,P26358,15,dna_(cytosine_5)_methyltransferase_1,
+5055,Dipeptidase 1,DPEP1_HUMAN,P16444,19,dipeptidase_1,
+5125,Ectonucleotide pyrophosphatase/phosphodiesterase family member 1,ENPP1_HUMAN,P22413,37,ectonucleotide_pyrophosphatasephosphodiesterase_family_member_1,
+5126,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,ENPP2_HUMAN,Q13822,131,ectonucleotide_pyrophosphatasephosphodiesterase_family_member_2,
+5140,DNA repair protein complementing XP-G cells,ERCC5_HUMAN,P28715,32,dna_repair_protein_complementing_xp_g_cells,
+5171,Dihydrofolate reductase,DYR_HUMAN,P00374,752,dihydrofolate_reductase,
+5179,Endothelin-converting enzyme 1,ECE1_HUMAN,P42892,309,endothelin_converting_enzyme_1,
+5221,Endoplasmic reticulum aminopeptidase 2,ERAP2_HUMAN,Q6P179,21,endoplasmic_reticulum_aminopeptidase_2,
+5277,Neutrophil elastase,ELNE_HUMAN,P08246,1198,neutrophil_elastase,
+5354,Enteropeptidase,ENTK_HUMAN,P98073,210,enteropeptidase,
+5451,Fatty acid desaturase 1,FADS1_HUMAN,O60427,25,fatty_acid_desaturase_1,./Enzyme_Denise/decoys_fatty_acid_desaturase_1.sdf
+5604,Peptidyl-prolyl cis-trans isomerase FKBP5,FKBP5_HUMAN,Q13451,19,peptidyl_prolyl_cis_trans_isomerase_fkbp5,
+5668,Liver carboxylesterase 1,EST1_HUMAN,P23141,261,liver_carboxylesterase_1,
+5701,"Fructose-1,6-bisphosphatase 1",F16P1_HUMAN,P09467,303,fructose_16_bisphosphatase_1,
+5748,Coagulation factor IX,FA9_HUMAN,P00740,230,coagulation_factor_ix,
+5749,Fatty-acid amide hydrolase 1,FAAH1_HUMAN,O00519,1280,fatty_acid_amide_hydrolase_1,
+5806,Fatty acid synthase,FAS_HUMAN,P49327,445,fatty_acid_synthase,
+5857,Peptidyl-prolyl cis-trans isomerase FKBP1A,FKB1A_HUMAN,P62942,382,peptidyl_prolyl_cis_trans_isomerase_fkbp1a,
+5864,Lanosterol synthase,ERG7_HUMAN,P48449,194,lanosterol_synthase,
+5869,Cocaine esterase,EST2_HUMAN,O00748,139,cocaine_esterase,
+5913,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4",F264_HUMAN,Q16877,32,6_phosphofructo_2_kinasefructose_26_bisphosphatase_4,
+5921,Coagulation factor XI,FA11_HUMAN,P03951,326,coagulation_factor_xi,
+5967,Coagulation factor XIII A chain,F13A_HUMAN,P00488,72,coagulation_factor_xiii_a_chain,
+6000,Coagulation factor X,FA10_HUMAN,P00742,4498,coagulation_factor_x,
+6128,Coagulation factor VII,FA7_HUMAN,P08709,299,coagulation_factor_vii,
+6143,Squalene synthase,FDFT_HUMAN,P37268,338,squalene_synthase,./Enzyme_Denise/decoys_squalene_synthase.sdf
+6161,Flap endonuclease 1,FEN1_HUMAN,P39748,40,flap_endonuclease_1,
+6281,Tissue alpha-L-fucosidase,FUCO_HUMAN,P04066,82,tissue_alpha_l_fucosidase,
+6337,"Folylpolyglutamate synthase, mitochondrial",FOLC_HUMAN,Q05932,16,folylpolyglutamate_synthase_mitochondrial,./Enzyme_Denise/decoys_folylpolyglutamate_synthase_mitochondrial.sdf
+6343,Farnesyl pyrophosphate synthase,FPPS_HUMAN,P14324,502,farnesyl_pyrophosphate_synthase,
+6350,Furin,FURIN_HUMAN,P09958,80,furin,
+6419,Glutamate carboxypeptidase 2,FOLH1_HUMAN,Q04609,260,glutamate_carboxypeptidase_2,
+6466,Non-lysosomal glucosylceramidase,GBA2_HUMAN,Q9HCG7,125,non_lysosomal_glucosylceramidase,
+6599,Glucokinase regulatory protein,GCKR_HUMAN,Q14397,74,glucokinase_regulatory_protein,
+6627,"Glutaminase kidney isoform, mitochondrial",GLSK_HUMAN,O94925,530,glutaminase_kidney_isoform_mitochondrial,./gpcr/glutaminase_kidney_isoform_mitochondrial.sdf
+6739,Granzyme B,GRAB_HUMAN,P10144,18,granzyme_b,./Enzyme_Denise/decoys_granzyme_b.sdf
+6759,Glutathione S-transferase Mu 2,GSTM2_HUMAN,P28161,35,glutathione_s_transferase_mu_2,./Enzyme_Denise/decoys_glutathione_s_transferase_mu_2.sdf
+6805,Geranylgeranyl pyrophosphate synthase,GGPPS_HUMAN,O95749,108,geranylgeranyl_pyrophosphate_synthase,
+6845,Glucosylceramidase,GLCM_HUMAN,P04062,272,glucosylceramidase,
+7378,Glutathione S-transferase P,GSTP1_HUMAN,P09211,35,glutathione_s_transferase_p,./Enzyme_Denise/decoys_glutathione_s_transferase_p.sdf
+7385,"Glycogen [starch] synthase, muscle",GYS1_HUMAN,P13807,33,glycogen_starch_synthase_muscle,./Enzyme_Denise/decoys_glycogen_starch_synthase_muscle.sdf
+7447,Serine protease hepsin,HEPS_HUMAN,P05981,30,serine_protease_hepsin,./Enzyme_Denise/decoys_serine_protease_hepsin.sdf
+7557,Hepatocyte growth factor activator,HGFA_HUMAN,Q04756,17,hepatocyte_growth_factor_activator,
+7598,Hematopoietic prostaglandin D synthase,HPGDS_HUMAN,O60760,117,hematopoietic_prostaglandin_d_synthase,
+7600,Hypoxanthine-guanine phosphoribosyltransferase,HPRT_HUMAN,P00492,36,hypoxanthine_guanine_phosphoribosyltransferase,
+7604,Heparanase,HPSE_HUMAN,Q9Y251,163,heparanase,
+7610,Epoxide hydrolase 1,HYEP_HUMAN,P07099,172,epoxide_hydrolase_1,
+7626,Isocitrate dehydrogenase [NADP] cytoplasmic,IDHC_HUMAN,O75874,572,isocitrate_dehydrogenase_nadp_cytoplasmic,
+7695,4-hydroxyphenylpyruvate dioxygenase,HPPD_HUMAN,P32754,76,4_hydroxyphenylpyruvate_dioxygenase,
+7742,3-hydroxy-3-methylglutaryl-coenzyme A reductase,HMDH_HUMAN,P04035,447,3_hydroxy_3_methylglutaryl_coenzyme_a_reductase,
+7781,Insulin-degrading enzyme,IDE_HUMAN,P14735,34,insulin_degrading_enzyme,
+7831,Bifunctional epoxide hydrolase 2,HYES_HUMAN,P34913,1635,bifunctional_epoxide_hydrolase_2,./Enzyme_Denise/decoys_bifunctional_epoxide_hydrolase_2.sdf
+7890,Protein-S-isoprenylcysteine O-methyltransferase,ICMT_HUMAN,O60725,73,protein_s_isoprenylcysteine_o_methyltransferase,./Enzyme_Denise/decoys_protein_s_isoprenylcysteine_o_methyltransferase.sdf
+8016,"Indoleamine 2,3-dioxygenase 1",I23O1_HUMAN,P14902,262,indoleamine_23_dioxygenase_1,
+8452,Prostate-specific antigen,KLK3_HUMAN,P07288,33,prostate_specific_antigen,./Enzyme_Denise/decoys_prostate_specific_antigen.sdf
+8454,Kallikrein-5,KLK5_HUMAN,Q9Y337,17,kallikrein_5,
+8690,Inosine-5'-monophosphate dehydrogenase 1,IMDH1_HUMAN,P20839,123,inosine_5_monophosphate_dehydrogenase_1,
+8691,Inosine-5'-monophosphate dehydrogenase 2,IMDH2_HUMAN,P12268,542,inosine_5_monophosphate_dehydrogenase_2,
+8821,Kallikrein-1,KLK1_HUMAN,P06870,66,kallikrein_1,
+8920,L-lactate dehydrogenase B chain,LDHB_HUMAN,P07195,18,l_lactate_dehydrogenase_b_chain,
+8938,Arachidonate 5-lipoxygenase,LOX5_HUMAN,P09917,1150,arachidonate_5_lipoxygenase,./Enzyme_Denise/decoys_arachidonate_5_lipoxygenase.sdf
+9067,L-lactate dehydrogenase A chain,LDHA_HUMAN,P00338,98,l_lactate_dehydrogenase_a_chain,
+9106,Leukotriene A-4 hydrolase,LKHA4_HUMAN,P09960,523,leukotriene_a_4_hydrolase,
+9166,Legumain,LGMN_HUMAN,Q99538,69,legumain,
+9177,Hormone-sensitive lipase,LIPS_HUMAN,Q05469,265,hormone_sensitive_lipase,
+9292,Leucyl-cystinyl aminopeptidase,LCAP_HUMAN,Q9UIQ6,57,leucyl_cystinyl_aminopeptidase,
+9426,Lactoylglutathione lyase,LGUL_HUMAN,Q04760,36,lactoylglutathione_lyase,
+9501,Plasma kallikrein,KLKB1_HUMAN,P03952,195,plasma_kallikrein,./Enzyme_Denise/decoys_plasma_kallikrein.sdf
+9503,Kynurenine 3-monooxygenase,KMO_HUMAN,O15229,91,kynurenine_3_monooxygenase,
+9531,Hepatic triacylglycerol lipase,LIPC_HUMAN,P11150,285,hepatic_triacylglycerol_lipase,
+9532,Endothelial lipase,LIPE_HUMAN,Q9Y5X9,357,endothelial_lipase,
+9547,"Arachidonate 12-lipoxygenase, 12S-type",LOX12_HUMAN,P18054,54,arachidonate_12_lipoxygenase_12s_type,./Enzyme_Denise/decoys_arachidonate_12_lipoxygenase_12s_type.sdf
+9724,Methionine aminopeptidase 1,MAP11_HUMAN,P53582,70,methionine_aminopeptidase_1,./Enzyme_Denise/decoys_methionine_aminopeptidase_1.sdf
+9727,Methionine aminopeptidase 2,MAP2_HUMAN,P50579,531,methionine_aminopeptidase_2,./Enzyme_Denise/decoys_methionine_aminopeptidase_2.sdf
+9741,Membrane-bound transcription factor site-1 protease,MBTP1_HUMAN,Q14703,18,membrane_bound_transcription_factor_site_1_protease,./Enzyme_Denise/decoys_membrane_bound_transcription_factor_site_1_protease.sdf
+10058,Arachidonate 15-lipoxygenase,LOX15_HUMAN,P16050,210,arachidonate_15_lipoxygenase,./Enzyme_Denise/decoys_arachidonate_15_lipoxygenase.sdf
+10119,Lysosomal alpha-glucosidase,LYAG_HUMAN,P10253,23,lysosomal_alpha_glucosidase,
+10209,Macrophage metalloelastase,MMP12_HUMAN,P39900,436,macrophage_metalloelastase,
+10212,Interstitial collagenase,MMP1_HUMAN,P03956,1730,interstitial_collagenase,
+10216,72 kDa type IV collagenase,MMP2_HUMAN,P08253,2679,72_kda_type_iv_collagenase,
+10273,2-acylglycerol O-acyltransferase 2,MOGT2_HUMAN,Q3SYC2,199,2_acylglycerol_o_acyltransferase_2,
+10291,"Maltase-glucoamylase, intestinal",MGA_HUMAN,O43451,63,maltase_glucoamylase_intestinal,
+10292,Monoglyceride lipase,MGLL_HUMAN,Q99685,260,monoglyceride_lipase,./Enzyme_Denise/decoys_monoglyceride_lipase.sdf
+10366,"Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",MGAT2_HUMAN,Q10469,47,alpha_16_mannosyl_glycoprotein_2_beta_n_acetylglucosaminyltransferase,
+10367,"Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase",MGAT3_HUMAN,Q09327,25,beta_14_mannosyl_glycoprotein_4_beta_n_acetylglucosaminyltransferase,
+10396,Matrix metalloproteinase-14,MMP14_HUMAN,P50281,396,matrix_metalloproteinase_14,
+10407,Matrix metalloproteinase-15,MMP15_HUMAN,P51511,18,matrix_metalloproteinase_15,
+10408,Matrix metalloproteinase-16,MMP16_HUMAN,P51512,36,matrix_metalloproteinase_16,
+10412,Matrilysin,MMP7_HUMAN,P09237,238,matrilysin,
+10413,Neutrophil collagenase,MMP8_HUMAN,P22894,975,neutrophil_collagenase,
+10414,Matrix metalloproteinase-9,MMP9_HUMAN,P14780,2146,matrix_metalloproteinase_9,./Enzyme_Denise/decoys_matrix_metalloproteinase_9.sdf
+10480,Membrane metallo-endopeptidase-like 1,MMEL1_HUMAN,Q495T6,65,membrane_metallo_endopeptidase_like_1,./Enzyme_Denise/decoys_membrane_metallo_endopeptidase_like_1.sdf
+10481,Collagenase 3,MMP13_HUMAN,P45452,2411,collagenase_3,
+10502,M-phase inducer phosphatase 1,MPIP1_HUMAN,P30304,23,m_phase_inducer_phosphatase_1,
+10517,E3 ubiquitin-protein ligase Mdm2,MDM2_HUMAN,Q00987,2145,e3_ubiquitin_protein_ligase_mdm2,
+10547,Methylated-DNA--protein-cysteine methyltransferase,MGMT_HUMAN,P16455,53,methylated_dna__protein_cysteine_methyltransferase,
+10679,S-methyl-5'-thioadenosine phosphorylase,MTAP_HUMAN,Q13126,99,s_methyl_5_thioadenosine_phosphorylase,./denise_epigenetics/decoys_s_methyl_5_thioadenosine_phosphorylase.sdf
+10741,N-acylethanolamine-hydrolyzing acid amidase,NAAA_HUMAN,Q02083,44,n_acylethanolamine_hydrolyzing_acid_amidase,./Enzyme_Denise/decoys_n_acylethanolamine_hydrolyzing_acid_amidase.sdf
+10808,Neutral cholesterol ester hydrolase 1,NCEH1_HUMAN,Q6PIU2,15,neutral_cholesterol_ester_hydrolase_1,
+10991,Diphosphomevalonate decarboxylase,MVD1_HUMAN,P53602,32,diphosphomevalonate_decarboxylase,
+11012,M-phase inducer phosphatase 2,MPIP2_HUMAN,P30305,61,m_phase_inducer_phosphatase_2,
+11093,Glycylpeptide N-tetradecanoyltransferase 1,NMT1_HUMAN,P30419,77,glycylpeptide_n_tetradecanoyltransferase_1,./Enzyme_Denise/decoys_glycylpeptide_n_tetradecanoyltransferase_1.sdf
+11106,NADPH oxidase 4,NOX4_HUMAN,Q9NPH5,68,nadph_oxidase_4,
+11126,Nicotinamide phosphoribosyltransferase,NAMPT_HUMAN,P43490,392,nicotinamide_phosphoribosyltransferase,
+11328,Neprilysin,NEP_HUMAN,P08473,358,neprilysin,
+11366,"Nitric oxide synthase, brain",NOS1_HUMAN,P29475,564,nitric_oxide_synthase_brain,
+11411,"Nitric oxide synthase, inducible",NOS2_HUMAN,P35228,480,nitric_oxide_synthase_inducible,
+11533,"Nitric oxide synthase, endothelial",NOS3_HUMAN,P29474,111,nitric_oxide_synthase_endothelial,
+11584,Palmitoleoyl-protein carboxylesterase NOTUM,NOTUM_HUMAN,Q6P988,63,palmitoleoyl_protein_carboxylesterase_notum,
+11612,NAD(P)H dehydrogenase [quinone] 1,NQO1_HUMAN,P15559,77,nad(p)h_dehydrogenase_quinone_1,
+11613,Ribosyldihydronicotinamide dehydrogenase [quinone],NQO2_HUMAN,P16083,185,ribosyldihydronicotinamide_dehydrogenase_quinone,
+11662,Phospholipase A2,PA21B_HUMAN,P04054,107,phospholipase_a2,./Enzyme_Denise/decoys_phospholipase_a2.sdf
+11664,"Phospholipase A2, membrane associated",PA2GA_HUMAN,P14555,218,phospholipase_a2_membrane_associated,
+11683,Poly [ADP-ribose] polymerase 2,PARP2_HUMAN,Q9UGN5,84,poly_adp_ribose_polymerase_2,./Enzyme_Denise/decoys_poly_adp_ribose_polymerase_2.sdf
+11778,Transmembrane prolyl 4-hydroxylase,P4HTM_HUMAN,Q9NXG6,22,transmembrane_prolyl_4_hydroxylase,
+11810,Poly [ADP-ribose] polymerase 1,PARP1_HUMAN,P09874,2110,poly_adp_ribose_polymerase_1,./Enzyme_Denise/decoys_poly_adp_ribose_polymerase_1.sdf
+11895,Protein O-GlcNAcase,OGA_HUMAN,O60502,63,protein_o_glcnacase,./Enzyme_Denise/decoys_protein_o_glcnacase.sdf
+12162,Cytosolic phospholipase A2,PA24A_HUMAN,P47712,195,cytosolic_phospholipase_a2,
+12163,Cytosolic phospholipase A2 beta,PA24B_HUMAN,P0C869,34,cytosolic_phospholipase_a2_beta,
+12166,Calcium-dependent phospholipase A2,PA2G5_HUMAN,P39877,19,calcium_dependent_phospholipase_a2,./Enzyme_Denise/decoys_calcium_dependent_phospholipase_a2.sdf
+12167,Group 10 secretory phospholipase A2,PA2GX_HUMAN,O15496,37,group_10_secretory_phospholipase_a2,./Enzyme_Denise/decoys_group_10_secretory_phospholipase_a2.sdf
+12267,D-amino-acid oxidase,OXDA_HUMAN,P14920,200,d_amino_acid_oxidase,
+12286,Group IIE secretory phospholipase A2,PA2GE_HUMAN,Q9NZK7,16,group_iie_secretory_phospholipase_a2,./Enzyme_Denise/decoys_group_iie_secretory_phospholipase_a2.sdf
+12526,Platelet-activating factor acetylhydrolase,PAFA_HUMAN,Q13093,379,platelet_activating_factor_acetylhydrolase,./Enzyme_Denise/decoys_platelet_activating_factor_acetylhydrolase.sdf
+12624,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A",PDE11_HUMAN,Q9HCR9,65,dual_35_cyclic_amp_and__gmp_phosphodiesterase_11a,
+12626,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",PDE1A_HUMAN,P54750,23,calciumcalmodulin_dependent_35_cyclic_nucleotide_phosphodiesterase_1a,
+12627,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C",PDE1C_HUMAN,Q14123,47,calciumcalmodulin_dependent_35_cyclic_nucleotide_phosphodiesterase_1c,
+12628,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C",PDE4C_HUMAN,Q08493,98,camp_specific_35_cyclic_phosphodiesterase_4c,
+12629,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",PDE4D_HUMAN,Q08499,569,camp_specific_35_cyclic_phosphodiesterase_4d,
+12630,"cGMP-specific 3',5'-cyclic phosphodiesterase",PDE5A_HUMAN,O76074,1313,cgmp_specific_35_cyclic_phosphodiesterase,
+12631,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",PDE6D_HUMAN,O43924,47,retinal_rod_rhodopsin_sensitive_cgmp_35_cyclic_phosphodiesterase_subunit_delta,
+12645,Pepsin A-5,PEPA5_HUMAN,P0DJD9,21,pepsin_a_5,
+12646,Gastricsin,PEPC_HUMAN,P20142,15,gastricsin,./Enzyme_Denise/decoys_gastricsin.sdf
+12651,Myeloperoxidase,PERM_HUMAN,P05164,147,myeloperoxidase,./Enzyme_Denise/decoys_myeloperoxidase.sdf
+12658,15-hydroxyprostaglandin dehydrogenase [NAD(+)],PGDH_HUMAN,P15428,205,15_hydroxyprostaglandin_dehydrogenase_nad(+),
+12705,Lysosomal Pro-X carboxypeptidase,PCP_HUMAN,P42785,369,lysosomal_pro_x_carboxypeptidase,
+12767,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",PDE1B_HUMAN,Q01064,15,calciumcalmodulin_dependent_35_cyclic_nucleotide_phosphodiesterase_1b,
+12768,"cGMP-inhibited 3',5'-cyclic phosphodiesterase B",PDE3B_HUMAN,Q13370,97,cgmp_inhibited_35_cyclic_phosphodiesterase_b,
+12769,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",PDE4A_HUMAN,P27815,598,camp_specific_35_cyclic_phosphodiesterase_4a,
+12770,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",PDE4B_HUMAN,Q07343,897,camp_specific_35_cyclic_phosphodiesterase_4b,
+12772,"cAMP-specific 3',5'-cyclic phosphodiesterase 7B",PDE7B_HUMAN,Q9NP56,18,camp_specific_35_cyclic_phosphodiesterase_7b,
+12795,Geranylgeranyl transferase type-1 subunit beta,PGTB1_HUMAN,P53609,23,geranylgeranyl_transferase_type_1_subunit_beta,
+12842,"cGMP-dependent 3',5'-cyclic phosphodiesterase",PDE2A_HUMAN,O00408,569,cgmp_dependent_35_cyclic_phosphodiesterase,
+12843,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",PDE3A_HUMAN,Q14432,153,cgmp_inhibited_35_cyclic_phosphodiesterase_a,
+12844,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",PDE6A_HUMAN,P16499,47,rod_cgmp_specific_35_cyclic_phosphodiesterase_subunit_alpha,
+12846,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",PDE7A_HUMAN,Q13946,453,high_affinity_camp_specific_35_cyclic_phosphodiesterase_7a,
+12847,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8B",PDE8B_HUMAN,O95263,118,high_affinity_camp_specific_and_ibmx_insensitive_35_cyclic_phosphodiesterase_8b,
+12865,Prostaglandin G/H synthase 2,PGH2_HUMAN,P35354,2529,prostaglandin_gh_synthase_2,
+12913,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",PDE10_HUMAN,Q9Y233,2862,camp_and_camp_inhibited_cgmp_35_cyclic_phosphodiesterase_10a,
+12914,"High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A",PDE9A_HUMAN,O76083,182,high_affinity_cgmp_specific_35_cyclic_phosphodiesterase_9a,
+12947,Prostaglandin E synthase 2,PGES2_HUMAN,Q9H7Z7,22,prostaglandin_e_synthase_2,./Enzyme_Denise/decoys_prostaglandin_e_synthase_2.sdf
+12982,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit,PP1G_HUMAN,P36873,35,serinethreonine_protein_phosphatase_pp1_gamma_catalytic_subunit,
+12984,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,PP2AA_HUMAN,P67775,16,serinethreonine_protein_phosphatase_2a_catalytic_subunit_alpha_isoform,
+13127,Phosphoethanolamine/phosphocholine phosphatase,PHOP1_HUMAN,Q8TCT1,35,phosphoethanolaminephosphocholine_phosphatase,
+13152,Phospholipase D2,PLD2_HUMAN,O14939,101,phospholipase_d2,./Enzyme_Denise/decoys_phospholipase_d2.sdf
+13220,Phospholipase D1,PLD1_HUMAN,Q13393,123,phospholipase_d1,./Enzyme_Denise/decoys_phospholipase_d1.sdf
+13250,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,PIN1_HUMAN,Q13526,75,peptidyl_prolyl_cis_trans_isomerase_nima_interacting_1,
+13305,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,PP2BA_HUMAN,Q08209,22,serinethreonine_protein_phosphatase_2b_catalytic_subunit_alpha_isoform,
+13316,Prostaglandin G/H synthase 1,PGH1_HUMAN,P23219,459,prostaglandin_gh_synthase_1,
+13391,Plasminogen,PLMN_HUMAN,P00747,298,plasminogen,
+13409,Phenylethanolamine N-methyltransferase,PNMT_HUMAN,P11086,128,phenylethanolamine_n_methyltransferase,
+13410,Purine nucleoside phosphorylase,PNPH_HUMAN,P00491,333,purine_nucleoside_phosphorylase,./Enzyme_Denise/decoys_purine_nucleoside_phosphorylase.sdf
+13426,Protein-serine O-palmitoleoyltransferase porcupine,PORCN_HUMAN,Q9H237,25,protein_serine_o_palmitoleoyltransferase_porcupine,./Enzyme_Denise/decoys_protein_serine_o_palmitoleoyltransferase_porcupine.sdf
+13438,Prolyl endopeptidase,PPCE_HUMAN,P48147,235,prolyl_endopeptidase,./Enzyme_Denise/decoys_prolyl_endopeptidase.sdf
+13444,Protoporphyrinogen oxidase,PPOX_HUMAN,P50336,46,protoporphyrinogen_oxidase,./Enzyme_Denise/decoys_protoporphyrinogen_oxidase.sdf
+13467,1-acyl-sn-glycerol-3-phosphate acyltransferase beta,PLCB_HUMAN,O15120,82,1_acyl_sn_glycerol_3_phosphate_acyltransferase_beta,
+13532,Vitamin K-dependent protein C,PROC_HUMAN,P04070,54,vitamin_k_dependent_protein_c,
+13569,"Alkaline phosphatase, tissue-nonspecific isozyme",PPBT_HUMAN,P05186,115,alkaline_phosphatase_tissue_nonspecific_isozyme,./Enzyme_Denise/decoys_alkaline_phosphatase_tissue_nonspecific_isozyme.sdf
+13573,Lysosomal protective protein,PPGB_HUMAN,P10619,193,lysosomal_protective_protein,
+13668,Tyrosine-protein phosphatase non-receptor type 1,PTN1_HUMAN,P18031,865,tyrosine_protein_phosphatase_non_receptor_type_1,
+13671,Tyrosine-protein phosphatase non-receptor type 5,PTN5_HUMAN,P54829,20,tyrosine_protein_phosphatase_non_receptor_type_5,
+13672,Tyrosine-protein phosphatase non-receptor type 6,PTN6_HUMAN,P29350,15,tyrosine_protein_phosphatase_non_receptor_type_6,
+13676,Receptor-type tyrosine-protein phosphatase beta,PTPRB_HUMAN,P23467,38,receptor_type_tyrosine_protein_phosphatase_beta,./Enzyme_Denise/decoys_receptor_type_tyrosine_protein_phosphatase_beta.sdf
+13695,"Glycogen phosphorylase, liver form",PYGL_HUMAN,P06737,490,glycogen_phosphorylase_liver_form,./Enzyme_Denise/decoys_glycogen_phosphorylase_liver_form.sdf
+13696,"Glycogen phosphorylase, muscle form",PYGM_HUMAN,P11217,79,glycogen_phosphorylase_muscle_form,./Enzyme_Denise/decoys_glycogen_phosphorylase_muscle_form.sdf
+13700,Tyrosine-protein phosphatase non-receptor type 11,PTN11_HUMAN,Q06124,26,tyrosine_protein_phosphatase_non_receptor_type_11,
+13703,Tyrosine-protein phosphatase non-receptor type 2,PTN2_HUMAN,P17706,170,tyrosine_protein_phosphatase_non_receptor_type_2,
+13740,Presenilin-1,PSN1_HUMAN,P49768,41,presenilin_1,./Enzyme_Denise/decoys_presenilin_1.sdf
+13799,Proteasome subunit beta type-2,PSB2_HUMAN,P49721,38,proteasome_subunit_beta_type_2,./Enzyme_Denise/decoys_proteasome_subunit_beta_type_2.sdf
+13813,Prostaglandin E synthase,PTGES_HUMAN,O14684,825,prostaglandin_e_synthase,./Enzyme_Denise/decoys_prostaglandin_e_synthase.sdf
+13817,Proteasome subunit beta type-1,PSB1_HUMAN,P20618,35,proteasome_subunit_beta_type_1,./Enzyme_Denise/decoys_proteasome_subunit_beta_type_1.sdf
+13819,Proteasome subunit beta type-5,PSB5_HUMAN,P28074,305,proteasome_subunit_beta_type_5,./Enzyme_Denise/decoys_proteasome_subunit_beta_type_5.sdf
+13860,Proteasome subunit beta type-8,PSB8_HUMAN,P28062,50,proteasome_subunit_beta_type_8,./Enzyme_Denise/decoys_proteasome_subunit_beta_type_8.sdf
+13870,Tyrosine-protein phosphatase non-receptor type 22,PTN22_HUMAN,Q9Y2R2,43,tyrosine_protein_phosphatase_non_receptor_type_22,
+13874,Receptor-type tyrosine-protein phosphatase C,PTPRC_HUMAN,P08575,66,receptor_type_tyrosine_protein_phosphatase_c,./Enzyme_Denise/decoys_receptor_type_tyrosine_protein_phosphatase_c.sdf
+13879,Peptidyl-prolyl cis-trans isomerase A,PPIA_HUMAN,P62937,123,peptidyl_prolyl_cis_trans_isomerase_a,
+13934,Prostasin,PRSS8_HUMAN,Q16651,17,prostasin,./Enzyme_Denise/decoys_prostasin.sdf
+14018,"Dihydroorotate dehydrogenase (quinone), mitochondrial",PYRD_HUMAN,Q02127,511,dihydroorotate_dehydrogenase_(quinone)_mitochondrial,
+14021,Glutaminyl-peptide cyclotransferase-like protein,QPCTL_HUMAN,Q9NXS2,20,glutaminyl_peptide_cyclotransferase_like_protein,./Enzyme_Denise/decoys_glutaminyl_peptide_cyclotransferase_like_protein.sdf
+14068,Glutaminyl-peptide cyclotransferase,QPCT_HUMAN,Q16769,230,glutaminyl_peptide_cyclotransferase,./Enzyme_Denise/decoys_glutaminyl_peptide_cyclotransferase.sdf
+14456,Renin,RENI_HUMAN,P00797,3439,renin,
+15131,Sphingosine-1-phosphate lyase 1,SGPL1_HUMAN,O95470,23,sphingosine_1_phosphate_lyase_1,./Enzyme_Denise/decoys_sphingosine_1_phosphate_lyase_1.sdf
+15225,3-oxo-5-alpha-steroid 4-dehydrogenase 2,S5A2_HUMAN,P31213,435,3_oxo_5_alpha_steroid_4_dehydrogenase_2,
+15495,Adenosylhomocysteinase,SAHH_HUMAN,P23526,151,adenosylhomocysteinase,
+15619,3-oxo-5-alpha-steroid 4-dehydrogenase 1,S5A1_HUMAN,P18405,463,3_oxo_5_alpha_steroid_4_dehydrogenase_1,
+16365,Sterol O-acyltransferase 1,SOAT1_HUMAN,P35610,148,sterol_o_acyltransferase_1,./Enzyme_Denise/decoys_sterol_o_acyltransferase_1.sdf
+16366,Sterol O-acyltransferase 2,SOAT2_HUMAN,O75908,97,sterol_o_acyltransferase_2,
+16461,Prolyl endopeptidase FAP,SEPR_HUMAN,Q12884,106,prolyl_endopeptidase_fap,./Enzyme_Denise/decoys_prolyl_endopeptidase_fap.sdf
+16610,Lysine--tRNA ligase,SYK_HUMAN,Q15046,45,lysine__trna_ligase,
+16644,"Sucrase-isomaltase, intestinal",SUIS_HUMAN,P14410,45,sucrase_isomaltase_intestinal,
+16704,Steryl-sulfatase,STS_HUMAN,P08842,404,steryl_sulfatase,
+16721,"Isoleucine--tRNA ligase, cytoplasmic",SYIC_HUMAN,P41252,24,isoleucine__trna_ligase_cytoplasmic,
+16832,"Tyrosine--tRNA ligase, cytoplasmic",SYYC_HUMAN,P54577,19,tyrosine__trna_ligase_cytoplasmic,
+16847,"Tryptophan 2,3-dioxygenase",T23O_HUMAN,P48775,25,tryptophan_23_dioxygenase,
+16876,"Threonine--tRNA ligase, cytoplasmic",SYTC_HUMAN,P26639,16,threonine__trna_ligase_cytoplasmic,
+16942,"Methionine--tRNA ligase, cytoplasmic",SYMC_HUMAN,P56192,29,methionine__trna_ligase_cytoplasmic,
+17118,Telomerase reverse transcriptase,TERT_HUMAN,O14746,260,telomerase_reverse_transcriptase,
+17237,Transmembrane protease serine 6,TMPS6_HUMAN,Q8IU80,20,transmembrane_protease_serine_6,
+17354,Transitional endoplasmic reticulum ATPase,TERA_HUMAN,P55072,169,transitional_endoplasmic_reticulum_atpase,
+17464,Thromboxane-A synthase,THAS_HUMAN,P24557,679,thromboxane_a_synthase,
+17547,"Acetyl-CoA acetyltransferase, mitochondrial",THIL_HUMAN,P24752,24,acetyl_coa_acetyltransferase_mitochondrial,
+17559,Prothrombin,THRB_HUMAN,P00734,3176,prothrombin,./Enzyme_Denise/decoys_prothrombin.sdf
+17617,DNA topoisomerase 1,TOP1_HUMAN,P11387,162,dna_topoisomerase_1,
+17618,DNA topoisomerase 2-alpha,TOP2A_HUMAN,P11388,20,dna_topoisomerase_2_alpha,
+17638,Trypsin-1,TRY1_HUMAN,P07477,833,trypsin_1,
+17691,Tyrosyl-DNA phosphodiesterase 1,TYDP1_HUMAN,Q9NUW8,808,tyrosyl_dna_phosphodiesterase_1,
+17699,Transketolase,TKT_HUMAN,P29401,68,transketolase,
+17724,Tankyrase-1,TNKS1_HUMAN,O95271,270,tankyrase_1,
+17792,Protein-glutamine gamma-glutamyltransferase 2,TGM2_HUMAN,P21980,183,protein_glutamine_gamma_glutamyltransferase_2,./Enzyme_Denise/decoys_protein_glutamine_gamma_glutamyltransferase_2.sdf
+17895,Tryptophan 5-hydroxylase 1,TPH1_HUMAN,P17752,124,tryptophan_5_hydroxylase_1,
+18110,Transmembrane protease serine 11D,TM11D_HUMAN,O60235,46,transmembrane_protease_serine_11d,
+18170,Tissue-type plasminogen activator,TPA_HUMAN,P00750,82,tissue_type_plasminogen_activator,
+18274,Tryptase alpha/beta-1,TRYB1_HUMAN,Q15661,186,tryptase_alphabeta_1,
+18299,Thymidine phosphorylase,TYPH_HUMAN,P19971,50,thymidine_phosphorylase,
+18404,Tankyrase-2,TNKS2_HUMAN,Q9H2K2,259,tankyrase_2,
+18505,Urokinase-type plasminogen activator,UROK_HUMAN,P00749,537,urokinase_type_plasminogen_activator,
+18571,UDP-glucuronosyltransferase 2B7,UD2B7_HUMAN,P16662,29,udp_glucuronosyltransferase_2b7,
+18619,Thymidylate synthase,TYSY_HUMAN,P04818,429,thymidylate_synthase,
+18845,Tyrosyl-DNA phosphodiesterase 2,TYDP2_HUMAN,O95551,44,tyrosyl_dna_phosphodiesterase_2,
+19079,E3 ubiquitin-protein ligase XIAP,XIAP_HUMAN,P98170,677,e3_ubiquitin_protein_ligase_xiap,
+19194,Xanthine dehydrogenase/oxidase,XDH_HUMAN,P47989,77,xanthine_dehydrogenaseoxidase,

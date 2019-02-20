@@ -1,0 +1,6 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+2057,Bromodomain adjacent to zinc finger domain protein 2A,BAZ2A_HUMAN,Q9UIF9,18,bromodomain_adjacent_to_zinc_finger_domain_protein_2a,./dewan_tf_epi/decoys_bromodomain_adjacent_to_zinc_finger_domain_protein_2a.sdf
+2166,Bromodomain adjacent to zinc finger domain protein 2B,BAZ2B_HUMAN,Q9UIF8,26,bromodomain_adjacent_to_zinc_finger_domain_protein_2b,./dewan_tf_epi/decoys_bromodomain_adjacent_to_zinc_finger_domain_protein_2b.sdf
+8340,Lysine-specific demethylase 5C,KDM5C_HUMAN,P41229,62,lysine_specific_demethylase_5c,./dewan_tf_epi/decoys_lysine_specific_demethylase_5c.sdf
+8604,Lysine-specific demethylase 5A,KDM5A_HUMAN,P29375,25,lysine_specific_demethylase_5a,./dewan_tf_epi/decoys_lysine_specific_demethylase_5a.sdf
+8979,Lysine-specific demethylase 5B,KDM5B_HUMAN,Q9UGL1,63,lysine_specific_demethylase_5b,./dewan_tf_epi/decoys_lysine_specific_demethylase_5b.sdf

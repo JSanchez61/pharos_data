@@ -1,0 +1,190 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+26,5-hydroxytryptamine receptor 2B,5HT2B_HUMAN,P41595,777,5_hydroxytryptamine_receptor_2b,./gpcr/5_hydroxytryptamine_receptor_2b.sdf
+27,5-hydroxytryptamine receptor 2C,5HT2C_HUMAN,P28335,1612,5_hydroxytryptamine_receptor_2c,./gpcr/5_hydroxytryptamine_receptor_2c.sdf
+37,Adenosine receptor A1,AA1R_HUMAN,P30542,1550,adenosine_receptor_a1,./gpcr/adenosine_receptor_a1.sdf
+38,Adenosine receptor A2b,AA2BR_HUMAN,P29275,1108,adenosine_receptor_a2b,./gpcr/adenosine_receptor_a2b.sdf
+39,Adenosine receptor A3,AA3R_HUMAN,P0DMS8,2591,adenosine_receptor_a3,./gpcr/adenosine_receptor_a3.sdf
+42,Muscarinic acetylcholine receptor M1,ACM1_HUMAN,P11229,878,muscarinic_acetylcholine_receptor_m1,./gpcr/muscarinic_acetylcholine_receptor_m1.sdf
+63,Alpha-1D adrenergic receptor,ADA1D_HUMAN,P25100,931,alpha_1d_adrenergic_receptor,./gpcr/alpha_1d_adrenergic_receptor.sdf
+67,Alpha-2A adrenergic receptor,ADA2A_HUMAN,P08913,504,alpha_2a_adrenergic_receptor,./gpcr/alpha_2a_adrenergic_receptor.sdf
+79,Beta-2 adrenergic receptor,ADRB2_HUMAN,P07550,499,beta_2_adrenergic_receptor,./gpcr/beta_2_adrenergic_receptor.sdf
+103,5-hydroxytryptamine receptor 1D,5HT1D_HUMAN,P28221,1090,5_hydroxytryptamine_receptor_1d,./gpcr/5_hydroxytryptamine_receptor_1d.sdf
+104,5-hydroxytryptamine receptor 2A,5HT2A_HUMAN,P28223,2637,5_hydroxytryptamine_receptor_2a,./gpcr/5_hydroxytryptamine_receptor_2a.sdf
+110,5-hydroxytryptamine receptor 5A,5HT5A_HUMAN,P47898,169,5_hydroxytryptamine_receptor_5a,./gpcr/5_hydroxytryptamine_receptor_5a.sdf
+111,5-hydroxytryptamine receptor 7,5HT7R_HUMAN,P34969,1320,5_hydroxytryptamine_receptor_7,./gpcr/5_hydroxytryptamine_receptor_7.sdf
+150,Muscarinic acetylcholine receptor M2,ACM2_HUMAN,P08172,946,muscarinic_acetylcholine_receptor_m2,./gpcr/muscarinic_acetylcholine_receptor_m2.sdf
+151,Muscarinic acetylcholine receptor M4,ACM4_HUMAN,P08173,395,muscarinic_acetylcholine_receptor_m4,./gpcr/muscarinic_acetylcholine_receptor_m4.sdf
+316,Alpha-2B adrenergic receptor,ADA2B_HUMAN,P18089,258,alpha_2b_adrenergic_receptor,./gpcr/alpha_2b_adrenergic_receptor.sdf
+332,Beta-3 adrenergic receptor,ADRB3_HUMAN,P13945,301,beta_3_adrenergic_receptor,./gpcr/beta_3_adrenergic_receptor.sdf
+385,Adenosine receptor A2a,AA2AR_HUMAN,P29274,2087,adenosine_receptor_a2a,./gpcr/adenosine_receptor_a2a.sdf
+430,Muscarinic acetylcholine receptor M3,ACM3_HUMAN,P20309,1195,muscarinic_acetylcholine_receptor_m3,./gpcr/muscarinic_acetylcholine_receptor_m3.sdf
+431,Muscarinic acetylcholine receptor M5,ACM5_HUMAN,P08912,273,muscarinic_acetylcholine_receptor_m5,./gpcr/muscarinic_acetylcholine_receptor_m5.sdf
+443,5-hydroxytryptamine receptor 1A,5HT1A_HUMAN,P08908,2745,5_hydroxytryptamine_receptor_1a,./gpcr/5_hydroxytryptamine_receptor_1a.sdf
+444,5-hydroxytryptamine receptor 1B,5HT1B_HUMAN,P28222,744,5_hydroxytryptamine_receptor_1b,./gpcr/5_hydroxytryptamine_receptor_1b.sdf
+445,5-hydroxytryptamine receptor 1E,5HT1E_HUMAN,P28566,67,5_hydroxytryptamine_receptor_1e,./gpcr/5_hydroxytryptamine_receptor_1e.sdf
+446,5-hydroxytryptamine receptor 1F,5HT1F_HUMAN,P30939,182,5_hydroxytryptamine_receptor_1f,./gpcr/5_hydroxytryptamine_receptor_1f.sdf
+447,5-hydroxytryptamine receptor 4,5HT4R_HUMAN,Q13639,478,5_hydroxytryptamine_receptor_4,./gpcr/5_hydroxytryptamine_receptor_4.sdf
+448,5-hydroxytryptamine receptor 6,5HT6R_HUMAN,P50406,2684,5_hydroxytryptamine_receptor_6,./gpcr/5_hydroxytryptamine_receptor_6.sdf
+539,Alpha-1B adrenergic receptor,ADA1B_HUMAN,P35368,724,alpha_1b_adrenergic_receptor,./gpcr/alpha_1b_adrenergic_receptor.sdf
+540,Alpha-2C adrenergic receptor,ADA2C_HUMAN,P18825,450,alpha_2c_adrenergic_receptor,./gpcr/alpha_2c_adrenergic_receptor.sdf
+547,Beta-1 adrenergic receptor,ADRB1_HUMAN,P08588,325,beta_1_adrenergic_receptor,./gpcr/beta_1_adrenergic_receptor.sdf
+634,Apelin receptor,APJ_HUMAN,P35414,65,apelin_receptor,./gpcr/apelin_receptor.sdf
+862,Type-1 angiotensin II receptor,AGTR1_HUMAN,P30556,635,type_1_angiotensin_ii_receptor,./gpcr/type_1_angiotensin_ii_receptor.sdf
+973,Alpha-1A adrenergic receptor,ADA1A_HUMAN,P35348,1352,alpha_1a_adrenergic_receptor,./gpcr/alpha_1a_adrenergic_receptor.sdf
+996,Type-2 angiotensin II receptor,AGTR2_HUMAN,P50052,293,type_2_angiotensin_ii_receptor,./gpcr/type_2_angiotensin_ii_receptor.sdf
+1340,B1 bradykinin receptor,BKRB1_HUMAN,P46663,475,b1_bradykinin_receptor,./gpcr/b1_bradykinin_receptor.sdf
+1635,Bombesin receptor subtype-3,BRS3_HUMAN,P32247,171,bombesin_receptor_subtype_3,./gpcr/bombesin_receptor_subtype_3.sdf
+1659,C3a anaphylatoxin chemotactic receptor,C3AR_HUMAN,Q16581,76,c3a_anaphylatoxin_chemotactic_receptor,./gpcr/c3a_anaphylatoxin_chemotactic_receptor.sdf
+1738,B2 bradykinin receptor,BKRB2_HUMAN,P30411,380,b2_bradykinin_receptor,./gpcr/b2_bradykinin_receptor.sdf
+1795,Extracellular calcium-sensing receptor,CASR_HUMAN,P41180,127,extracellular_calcium_sensing_receptor,./gpcr/extracellular_calcium_sensing_receptor.sdf
+1936,C5a anaphylatoxin chemotactic receptor 1,C5AR1_HUMAN,P21730,175,c5a_anaphylatoxin_chemotactic_receptor_1,./gpcr/c5a_anaphylatoxin_chemotactic_receptor_1.sdf
+1981,Calcitonin gene-related peptide type 1 receptor,CALRL_HUMAN,Q16602,481,calcitonin_gene_related_peptide_type_1_receptor,./gpcr/calcitonin_gene_related_peptide_type_1_receptor.sdf
+2281,Cholecystokinin receptor type A,CCKAR_HUMAN,P32238,319,cholecystokinin_receptor_type_a,./gpcr/cholecystokinin_receptor_type_a.sdf
+2292,C-C chemokine receptor type 1,CCR1_HUMAN,P32246,396,c_c_chemokine_receptor_type_1,./gpcr/c_c_chemokine_receptor_type_1.sdf
+2343,C-C chemokine receptor type 3,CCR3_HUMAN,P51677,671,c_c_chemokine_receptor_type_3,./gpcr/c_c_chemokine_receptor_type_3.sdf
+2535,Cysteinyl leukotriene receptor 2,CLTR2_HUMAN,Q9NS75,91,cysteinyl_leukotriene_receptor_2,./gpcr/cysteinyl_leukotriene_receptor_2.sdf
+2854,C-C chemokine receptor type 2,CCR2_HUMAN,P41597,1043,c_c_chemokine_receptor_type_2,./gpcr/c_c_chemokine_receptor_type_2.sdf
+2855,C-C chemokine receptor type 4,CCR4_HUMAN,P51679,74,c_c_chemokine_receptor_type_4,
+2962,C-C chemokine receptor type 8,CCR8_HUMAN,P51685,50,c_c_chemokine_receptor_type_8,./gpcr/c_c_chemokine_receptor_type_8.sdf
+2963,C-C chemokine receptor type 9,CCR9_HUMAN,P51686,123,c_c_chemokine_receptor_type_9,./gpcr/c_c_chemokine_receptor_type_9.sdf
+2964,C-C chemokine receptor-like 2,CCRL2_HUMAN,O00421,100,c_c_chemokine_receptor_like_2,./gpcr/c_c_chemokine_receptor_like_2.sdf
+3104,C-C chemokine receptor type 5,CCR5_HUMAN,P51681,1629,c_c_chemokine_receptor_type_5,./gpcr/c_c_chemokine_receptor_type_5.sdf
+3278,Corticotropin-releasing factor receptor 1,CRFR1_HUMAN,P34998,1275,corticotropin_releasing_factor_receptor_1,./gpcr/corticotropin_releasing_factor_receptor_1.sdf
+3354,Cysteinyl leukotriene receptor 1,CLTR1_HUMAN,Q9Y271,151,cysteinyl_leukotriene_receptor_1,./gpcr/cysteinyl_leukotriene_receptor_1.sdf
+3552,Cannabinoid receptor 1,CNR1_HUMAN,P21554,2198,cannabinoid_receptor_1,./gpcr/cannabinoid_receptor_1.sdf
+3718,Cannabinoid receptor 2,CNR2_HUMAN,P34972,2647,cannabinoid_receptor_2,./gpcr/cannabinoid_receptor_2.sdf
+3874,C-X-C chemokine receptor type 1,CXCR1_HUMAN,P25024,100,c_x_c_chemokine_receptor_type_1,./gpcr/c_x_c_chemokine_receptor_type_1.sdf
+4011,CX3C chemokine receptor 1,CX3C1_HUMAN,P49238,31,cx3c_chemokine_receptor_1,./gpcr/cx3c_chemokine_receptor_1.sdf
+4024,C-X-C chemokine receptor type 2,CXCR2_HUMAN,P25025,448,c_x_c_chemokine_receptor_type_2,./gpcr/c_x_c_chemokine_receptor_type_2.sdf
+4119,C-X-C chemokine receptor type 3,CXCR3_HUMAN,P49682,426,c_x_c_chemokine_receptor_type_3,./gpcr/c_x_c_chemokine_receptor_type_3.sdf
+4120,C-X-C chemokine receptor type 4,CXCR4_HUMAN,P61073,140,c_x_c_chemokine_receptor_type_4,./gpcr/c_x_c_chemokine_receptor_type_4.sdf
+4788,D(1B) dopamine receptor,DRD5_HUMAN,P21918,165,d(1b)_dopamine_receptor,./gpcr/d(1b)_dopamine_receptor.sdf
+4815,D(1A) dopamine receptor,DRD1_HUMAN,P21728,595,d(1a)_dopamine_receptor,./gpcr/d(1a)_dopamine_receptor.sdf
+4816,D(2) dopamine receptor,DRD2_HUMAN,P14416,3469,d(2)_dopamine_receptor,./gpcr/d(2)_dopamine_receptor.sdf
+4817,D(3) dopamine receptor,DRD3_HUMAN,P35462,3155,d(3)_dopamine_receptor,./gpcr/d(3)_dopamine_receptor.sdf
+4818,D(4) dopamine receptor,DRD4_HUMAN,P21917,1792,d(4)_dopamine_receptor,./gpcr/d(4)_dopamine_receptor.sdf
+5005,Endothelin receptor type B,EDNRB_HUMAN,P24530,242,endothelin_receptor_type_b,
+5092,Endothelin-1 receptor,EDNRA_HUMAN,P25101,814,endothelin_1_receptor,./gpcr/endothelin_1_receptor.sdf
+5789,Free fatty acid receptor 4,FFAR4_HUMAN,Q5NUL3,21,free_fatty_acid_receptor_4,
+6086,fMet-Leu-Phe receptor,FPR1_HUMAN,P21462,33,fmet_leu_phe_receptor,./gpcr/fmet_leu_phe_receptor.sdf
+6166,Free fatty acid receptor 1,FFAR1_HUMAN,O14842,305,free_fatty_acid_receptor_1,./gpcr/free_fatty_acid_receptor_1.sdf
+6227,Galanin receptor type 2,GALR2_HUMAN,O43603,39,galanin_receptor_type_2,./gpcr/galanin_receptor_type_2.sdf
+6344,N-formyl peptide receptor 2,FPR2_HUMAN,P25090,41,n_formyl_peptide_receptor_2,./gpcr/n_formyl_peptide_receptor_2.sdf
+6378,Gastrin/cholecystokinin type B receptor,GASR_HUMAN,P32239,749,gastrincholecystokinin_type_b_receptor,
+6551,Galanin receptor type 1,GALR1_HUMAN,P47211,38,galanin_receptor_type_1,./gpcr/galanin_receptor_type_1.sdf
+6586,Galanin receptor type 3,GALR3_HUMAN,O60755,21,galanin_receptor_type_3,./gpcr/galanin_receptor_type_3.sdf
+6626,Glucagon receptor,GLR_HUMAN,P47871,646,glucagon_receptor,./gpcr/glucagon_receptor.sdf
+6672,G-protein coupled receptor 183,GP183_HUMAN,P32249,20,g_protein_coupled_receptor_183,./gpcr/g_protein_coupled_receptor_183.sdf
+6692,G-protein coupled receptor 4,GPR4_HUMAN,P46093,36,g_protein_coupled_receptor_4,./gpcr/g_protein_coupled_receptor_4.sdf
+6695,Probable G-protein coupled receptor 88,GPR88_HUMAN,Q9GZN0,183,probable_g_protein_coupled_receptor_88,./gpcr/probable_g_protein_coupled_receptor_88.sdf
+6711,Gonadotropin-releasing hormone receptor,GNRHR_HUMAN,P30968,1182,gonadotropin_releasing_hormone_receptor,./gpcr/gonadotropin_releasing_hormone_receptor.sdf
+6721,Probable G-protein coupled receptor 174,GP174_HUMAN,Q9BXC1,22,probable_g_protein_coupled_receptor_174,./gpcr/probable_g_protein_coupled_receptor_174.sdf
+6729,G-protein coupled receptor 55,GPR55_HUMAN,Q9Y2T6,66,g_protein_coupled_receptor_55,./gpcr/g_protein_coupled_receptor_55.sdf
+6733,G-protein coupled receptor 84,GPR84_HUMAN,Q9NQS5,26,g_protein_coupled_receptor_84,./gpcr/g_protein_coupled_receptor_84.sdf
+6751,Metabotropic glutamate receptor 1,GRM1_HUMAN,Q13255,339,metabotropic_glutamate_receptor_1,./gpcr/metabotropic_glutamate_receptor_1.sdf
+6752,Gastrin-releasing peptide receptor,GRPR_HUMAN,P30550,37,gastrin_releasing_peptide_receptor,./gpcr/gastrin_releasing_peptide_receptor.sdf
+6825,Glucagon-like peptide 2 receptor,GLP2R_HUMAN,O95838,81,glucagon_like_peptide_2_receptor,./gpcr/glucagon_like_peptide_2_receptor.sdf
+6860,G-protein coupled receptor 52,GPR52_HUMAN,Q9Y2T5,15,g_protein_coupled_receptor_52,
+6881,Metabotropic glutamate receptor 2,GRM2_HUMAN,Q14416,231,metabotropic_glutamate_receptor_2,./gpcr/metabotropic_glutamate_receptor_2.sdf
+6882,Metabotropic glutamate receptor 3,GRM3_HUMAN,Q14832,106,metabotropic_glutamate_receptor_3,./gpcr/metabotropic_glutamate_receptor_3.sdf
+6883,Metabotropic glutamate receptor 5,GRM5_HUMAN,P41594,970,metabotropic_glutamate_receptor_5,./gpcr/metabotropic_glutamate_receptor_5.sdf
+6884,Metabotropic glutamate receptor 6,GRM6_HUMAN,O15303,46,metabotropic_glutamate_receptor_6,
+6897,Glucose-dependent insulinotropic receptor,GP119_HUMAN,Q8TDV5,325,glucose_dependent_insulinotropic_receptor,./gpcr/glucose_dependent_insulinotropic_receptor.sdf
+6902,G-protein coupled bile acid receptor 1,GPBAR_HUMAN,Q8TDU6,160,g_protein_coupled_bile_acid_receptor_1,./gpcr/g_protein_coupled_bile_acid_receptor_1.sdf
+6905,G-protein coupled receptor family C group 6 member A,GPC6A_HUMAN,Q5T6X5,20,g_protein_coupled_receptor_family_c_group_6_member_a,
+6914,G-protein coupled receptor 35,GPR35_HUMAN,Q9HC97,92,g_protein_coupled_receptor_35,./gpcr/g_protein_coupled_receptor_35.sdf
+6915,G-protein coupled receptor 39,GPR39_HUMAN,O43194,25,g_protein_coupled_receptor_39,
+6977,Growth hormone secretagogue receptor type 1,GHSR_HUMAN,Q92847,644,growth_hormone_secretagogue_receptor_type_1,./gpcr/growth_hormone_secretagogue_receptor_type_1.sdf
+7002,G-protein coupled estrogen receptor 1,GPER1_HUMAN,Q99527,17,g_protein_coupled_estrogen_receptor_1,./gpcr/g_protein_coupled_estrogen_receptor_1.sdf
+7044,Glucagon-like peptide 1 receptor,GLP1R_HUMAN,P43220,189,glucagon_like_peptide_1_receptor,
+7066,Probable G-protein coupled receptor 142,GP142_HUMAN,Q7Z601,29,probable_g_protein_coupled_receptor_142,./gpcr/probable_g_protein_coupled_receptor_142.sdf
+7167,Probable G-protein coupled receptor 139,GP139_HUMAN,Q6DWJ6,35,probable_g_protein_coupled_receptor_139,./gpcr/probable_g_protein_coupled_receptor_139.sdf
+7185,Uracil nucleotide/cysteinyl leukotriene receptor,GPR17_HUMAN,Q13304,24,uracil_nucleotidecysteinyl_leukotriene_receptor,
+7258,Metabotropic glutamate receptor 4,GRM4_HUMAN,Q14833,131,metabotropic_glutamate_receptor_4,./gpcr/metabotropic_glutamate_receptor_4.sdf
+7259,Metabotropic glutamate receptor 7,GRM7_HUMAN,Q14831,54,metabotropic_glutamate_receptor_7,
+7260,Metabotropic glutamate receptor 8,GRM8_HUMAN,O00222,33,metabotropic_glutamate_receptor_8,./gpcr/metabotropic_glutamate_receptor_8.sdf
+7405,Hydroxycarboxylic acid receptor 2,HCAR2_HUMAN,Q8TDS4,190,hydroxycarboxylic_acid_receptor_2,./gpcr/hydroxycarboxylic_acid_receptor_2.sdf
+7424,Hydroxycarboxylic acid receptor 3,HCAR3_HUMAN,P49019,20,hydroxycarboxylic_acid_receptor_3,
+7509,Histamine H1 receptor,HRH1_HUMAN,P35367,728,histamine_h1_receptor,./gpcr/histamine_h1_receptor.sdf
+7510,Histamine H2 receptor,HRH2_HUMAN,P25021,71,histamine_h2_receptor,./gpcr/histamine_h2_receptor.sdf
+7698,Histamine H4 receptor,HRH4_HUMAN,Q9H3N8,849,histamine_h4_receptor,./gpcr/histamine_h4_receptor.sdf
+7756,Histamine H3 receptor,HRH3_HUMAN,Q9Y5N1,2993,histamine_h3_receptor,./gpcr/histamine_h3_receptor.sdf
+8940,Lysophosphatidic acid receptor 5,LPAR5_HUMAN,Q9H1C0,34,lysophosphatidic_acid_receptor_5,./gpcr/lysophosphatidic_acid_receptor_5.sdf
+8986,KiSS-1 receptor,KISSR_HUMAN,Q969F8,133,kiss_1_receptor,./gpcr/kiss_1_receptor.sdf
+9111,Lysophosphatidic acid receptor 6,LPAR6_HUMAN,P43657,20,lysophosphatidic_acid_receptor_6,./gpcr/lysophosphatidic_acid_receptor_6.sdf
+9549,Lysophosphatidic acid receptor 2,LPAR2_HUMAN,Q9HBW0,52,lysophosphatidic_acid_receptor_2,./gpcr/lysophosphatidic_acid_receptor_2.sdf
+9550,Lysophosphatidic acid receptor 3,LPAR3_HUMAN,Q9UBY5,88,lysophosphatidic_acid_receptor_3,./gpcr/lysophosphatidic_acid_receptor_3.sdf
+9551,Lysophosphatidic acid receptor 4,LPAR4_HUMAN,Q99677,34,lysophosphatidic_acid_receptor_4,./gpcr/lysophosphatidic_acid_receptor_4.sdf
+9680,Leukotriene B4 receptor 2,LT4R2_HUMAN,Q9NPC1,26,leukotriene_b4_receptor_2,
+9746,Melanin-concentrating hormone receptor 1,MCHR1_HUMAN,Q99705,2354,melanin_concentrating_hormone_receptor_1,./gpcr/melanin_concentrating_hormone_receptor_1.sdf
+9825,Leukotriene B4 receptor 1,LT4R1_HUMAN,Q15722,329,leukotriene_b4_receptor_1,./gpcr/leukotriene_b4_receptor_1.sdf
+9933,Melanocortin receptor 3,MC3R_HUMAN,P41968,90,melanocortin_receptor_3,./gpcr/melanocortin_receptor_3.sdf
+9934,Melanocortin receptor 4,MC4R_HUMAN,P32245,1242,melanocortin_receptor_4,./gpcr/melanocortin_receptor_4.sdf
+9963,Lysophosphatidic acid receptor 1,LPAR1_HUMAN,Q92633,75,lysophosphatidic_acid_receptor_1,./gpcr/lysophosphatidic_acid_receptor_1.sdf
+10050,Melanocortin receptor 5,MC5R_HUMAN,P33032,91,melanocortin_receptor_5,./gpcr/melanocortin_receptor_5.sdf
+10723,Melatonin receptor type 1B,MTR1B_HUMAN,P49286,806,melatonin_receptor_type_1b,./gpcr/melatonin_receptor_type_1b.sdf
+10900,Motilin receptor,MTLR_HUMAN,O43193,72,motilin_receptor,./gpcr/motilin_receptor.sdf
+10909,Melatonin receptor type 1A,MTR1A_HUMAN,P48039,756,melatonin_receptor_type_1a,./gpcr/melatonin_receptor_type_1a.sdf
+10973,Melanocyte-stimulating hormone receptor,MSHR_HUMAN,Q01726,89,melanocyte_stimulating_hormone_receptor,./gpcr/melanocyte_stimulating_hormone_receptor.sdf
+11113,Neuropeptide FF receptor 1,NPFF1_HUMAN,Q9GZQ6,22,neuropeptide_ff_receptor_1,./gpcr/neuropeptide_ff_receptor_1.sdf
+11114,Neuropeptide FF receptor 2,NPFF2_HUMAN,Q9Y5X5,17,neuropeptide_ff_receptor_2,./gpcr/neuropeptide_ff_receptor_2.sdf
+11263,Neurotensin receptor type 1,NTR1_HUMAN,P30989,92,neurotensin_receptor_type_1,./gpcr/neurotensin_receptor_type_1.sdf
+11300,Substance-K receptor,NK2R_HUMAN,P21452,653,substance_k_receptor,./gpcr/substance_k_receptor.sdf
+11397,Neuromedin-B receptor,NMBR_HUMAN,P28336,22,neuromedin_b_receptor,./gpcr/neuromedin_b_receptor.sdf
+11431,Neuropeptide Y receptor type 4,NPY4R_HUMAN,P50391,29,neuropeptide_y_receptor_type_4,./gpcr/neuropeptide_y_receptor_type_4.sdf
+11432,Neuropeptide Y receptor type 5,NPY5R_HUMAN,Q15761,770,neuropeptide_y_receptor_type_5,./gpcr/neuropeptide_y_receptor_type_5.sdf
+11545,Neuropeptide S receptor,NPSR1_HUMAN,Q6W5P4,31,neuropeptide_s_receptor,./gpcr/neuropeptide_s_receptor.sdf
+11575,Substance-P receptor,NK1R_HUMAN,P25103,2308,substance_p_receptor,./gpcr/substance_p_receptor.sdf
+11576,Neuromedin-K receptor,NK3R_HUMAN,P29371,541,neuromedin_k_receptor,./gpcr/neuromedin_k_receptor.sdf
+11609,Neuropeptide Y receptor type 1,NPY1R_HUMAN,P25929,413,neuropeptide_y_receptor_type_1,./gpcr/neuropeptide_y_receptor_type_1.sdf
+11610,Neuropeptide Y receptor type 2,NPY2R_HUMAN,P49146,124,neuropeptide_y_receptor_type_2,./gpcr/neuropeptide_y_receptor_type_2.sdf
+11651,P2Y purinoceptor 4,P2RY4_HUMAN,P51582,49,p2y_purinoceptor_4,./gpcr/p2y_purinoceptor_4.sdf
+11652,P2Y purinoceptor 6,P2RY6_HUMAN,Q15077,56,p2y_purinoceptor_6,./gpcr/p2y_purinoceptor_6.sdf
+11653,P2Y purinoceptor 13,P2Y13_HUMAN,Q9BPV8,30,p2y_purinoceptor_13,./gpcr/p2y_purinoceptor_13.sdf
+11753,Nociceptin receptor,OPRX_HUMAN,P41146,1065,nociceptin_receptor,./gpcr/nociceptin_receptor.sdf
+11773,Putative P2Y purinoceptor 10,P2Y10_HUMAN,O00398,55,putative_p2y_purinoceptor_10,./gpcr/putative_p2y_purinoceptor_10.sdf
+11804,Proteinase-activated receptor 2,PAR2_HUMAN,P55085,40,proteinase_activated_receptor_2,./gpcr/proteinase_activated_receptor_2.sdf
+11866,Neurotensin receptor type 2,NTR2_HUMAN,O95665,36,neurotensin_receptor_type_2,./gpcr/neurotensin_receptor_type_2.sdf
+12006,Mu-type opioid receptor,OPRM_HUMAN,P35372,2386,mu_type_opioid_receptor,./gpcr/mu_type_opioid_receptor.sdf
+12145,Orexin receptor type 1,OX1R_HUMAN,O43613,672,orexin_receptor_type_1,./gpcr/orexin_receptor_type_1.sdf
+12148,Oxytocin receptor,OXYR_HUMAN,P30559,528,oxytocin_receptor,./gpcr/oxytocin_receptor.sdf
+12154,P2Y purinoceptor 2,P2RY2_HUMAN,P41231,35,p2y_purinoceptor_2,./gpcr/p2y_purinoceptor_2.sdf
+12157,P2Y purinoceptor 12,P2Y12_HUMAN,Q9H244,748,p2y_purinoceptor_12,./gpcr/p2y_purinoceptor_12.sdf
+12158,P2Y purinoceptor 14,P2Y14_HUMAN,Q15391,44,p2y_purinoceptor_14,
+12187,Delta-type opioid receptor,OPRD_HUMAN,P41143,2136,delta_type_opioid_receptor,./gpcr/delta_type_opioid_receptor.sdf
+12188,Kappa-type opioid receptor,OPRK_HUMAN,P41145,2181,kappa_type_opioid_receptor,./gpcr/kappa_type_opioid_receptor.sdf
+12265,Orexin receptor type 2,OX2R_HUMAN,O43614,1031,orexin_receptor_type_2,./gpcr/orexin_receptor_type_2.sdf
+12514,Oxoeicosanoid receptor 1,OXER1_HUMAN,Q8TDS5,21,oxoeicosanoid_receptor_1,./gpcr/oxoeicosanoid_receptor_1.sdf
+12518,P2Y purinoceptor 1,P2RY1_HUMAN,P47900,341,p2y_purinoceptor_1,./gpcr/p2y_purinoceptor_1.sdf
+12623,Prostaglandin D2 receptor,PD2R_HUMAN,Q13258,266,prostaglandin_d2_receptor,./gpcr/prostaglandin_d2_receptor.sdf
+12756,Prostaglandin E2 receptor EP3 subtype,PE2R3_HUMAN,P43115,653,prostaglandin_e2_receptor_ep3_subtype,./gpcr/prostaglandin_e2_receptor_ep3_subtype.sdf
+12757,Prostaglandin E2 receptor EP4 subtype,PE2R4_HUMAN,P35408,552,prostaglandin_e2_receptor_ep4_subtype,./gpcr/prostaglandin_e2_receptor_ep4_subtype.sdf
+12781,Prostaglandin E2 receptor EP1 subtype,PE2R1_HUMAN,P34995,517,prostaglandin_e2_receptor_ep1_subtype,./gpcr/prostaglandin_e2_receptor_ep1_subtype.sdf
+12782,Prostaglandin E2 receptor EP2 subtype,PE2R2_HUMAN,P43116,222,prostaglandin_e2_receptor_ep2_subtype,./gpcr/prostaglandin_e2_receptor_ep2_subtype.sdf
+12839,Prostaglandin D2 receptor 2,PD2R2_HUMAN,Q9Y5Y4,1624,prostaglandin_d2_receptor_2,./gpcr/prostaglandin_d2_receptor_2.sdf
+12886,Proteinase-activated receptor 1,PAR1_HUMAN,P25116,297,proteinase_activated_receptor_1,./gpcr/proteinase_activated_receptor_1.sdf
+12942,Prostaglandin F2-alpha receptor,PF2R_HUMAN,P43088,86,prostaglandin_f2_alpha_receptor,
+13203,Prostacyclin receptor,PI2R_HUMAN,P43119,157,prostacyclin_receptor,./gpcr/prostacyclin_receptor.sdf
+13658,Platelet-activating factor receptor,PTAFR_HUMAN,P25105,277,platelet_activating_factor_receptor,./gpcr/platelet_activating_factor_receptor.sdf
+13834,Parathyroid hormone/parathyroid hormone-related peptide receptor,PTH1R_HUMAN,Q03431,21,parathyroid_hormoneparathyroid_hormone_related_peptide_receptor,
+13844,Prolactin-releasing peptide receptor,PRLHR_HUMAN,P49683,160,prolactin_releasing_peptide_receptor,./gpcr/prolactin_releasing_peptide_receptor.sdf
+14069,Pyroglutamylated RFamide peptide receptor,QRFPR_HUMAN,Q96P65,17,pyroglutamylated_rfamide_peptide_receptor,./gpcr/pyroglutamylated_rfamide_peptide_receptor.sdf
+15197,Sphingosine 1-phosphate receptor 1,S1PR1_HUMAN,P21453,927,sphingosine_1_phosphate_receptor_1,./gpcr/sphingosine_1_phosphate_receptor_1.sdf
+15198,Sphingosine 1-phosphate receptor 3,S1PR3_HUMAN,Q99500,275,sphingosine_1_phosphate_receptor_3,./gpcr/sphingosine_1_phosphate_receptor_3.sdf
+15199,Sphingosine 1-phosphate receptor 5,S1PR5_HUMAN,Q9H228,203,sphingosine_1_phosphate_receptor_5,./gpcr/sphingosine_1_phosphate_receptor_5.sdf
+15718,Sphingosine 1-phosphate receptor 2,S1PR2_HUMAN,O95136,117,sphingosine_1_phosphate_receptor_2,./gpcr/sphingosine_1_phosphate_receptor_2.sdf
+15719,Sphingosine 1-phosphate receptor 4,S1PR4_HUMAN,O95977,104,sphingosine_1_phosphate_receptor_4,./gpcr/sphingosine_1_phosphate_receptor_4.sdf
+15779,Smoothened homolog,SMO_HUMAN,Q99835,300,smoothened_homolog,./gpcr/smoothened_homolog.sdf
+16435,Somatostatin receptor type 4,SSR4_HUMAN,P31391,97,somatostatin_receptor_type_4,./gpcr/somatostatin_receptor_type_4.sdf
+16562,Somatostatin receptor type 1,SSR1_HUMAN,P30872,70,somatostatin_receptor_type_1,./gpcr/somatostatin_receptor_type_1.sdf
+16563,Somatostatin receptor type 5,SSR5_HUMAN,P35346,295,somatostatin_receptor_type_5,./gpcr/somatostatin_receptor_type_5.sdf
+16594,Succinate receptor 1,SUCR1_HUMAN,Q9BXA5,22,succinate_receptor_1,
+16803,Somatostatin receptor type 2,SSR2_HUMAN,P30874,234,somatostatin_receptor_type_2,./gpcr/somatostatin_receptor_type_2.sdf
+16804,Somatostatin receptor type 3,SSR3_HUMAN,P32745,338,somatostatin_receptor_type_3,./gpcr/somatostatin_receptor_type_3.sdf
+16966,Trace amine-associated receptor 1,TAAR1_HUMAN,Q96RJ0,85,trace_amine_associated_receptor_1,./gpcr/trace_amine_associated_receptor_1.sdf
+17274,Thromboxane A2 receptor,TA2R_HUMAN,P21731,435,thromboxane_a2_receptor,./gpcr/thromboxane_a2_receptor.sdf
+17846,Thyrotropin-releasing hormone receptor,TRFR_HUMAN,P34981,15,thyrotropin_releasing_hormone_receptor,./gpcr/thyrotropin_releasing_hormone_receptor.sdf
+18515,Vasopressin V2 receptor,V2R_HUMAN,P30518,361,vasopressin_v2_receptor,./gpcr/vasopressin_v2_receptor.sdf
+18727,Urotensin-2 receptor,UR2R_HUMAN,Q9UKP6,163,urotensin_2_receptor,./gpcr/urotensin_2_receptor.sdf
+19016,Vasopressin V1a receptor,V1AR_HUMAN,P37288,456,vasopressin_v1a_receptor,./gpcr/vasopressin_v1a_receptor.sdf
+19017,Vasopressin V1b receptor,V1BR_HUMAN,P47901,113,vasopressin_v1b_receptor,./gpcr/vasopressin_v1b_receptor.sdf

@@ -1,0 +1,206 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+56,Activin receptor type-1,ACVR1_HUMAN,Q04771,25,activin_receptor_type_1,
+77,Adenosine kinase,ADK_HUMAN,P55263,177,adenosine_kinase,
+136,Abelson tyrosine-protein kinase 2,ABL2_HUMAN,P42684,29,abelson_tyrosine_protein_kinase_2,
+220,Activated CDC42 kinase 1,ACK1_HUMAN,Q07912,99,activated_cdc42_kinase_1,
+253,ALK tyrosine kinase receptor,ALK_HUMAN,Q9UM73,763,alk_tyrosine_kinase_receptor,
+313,Serine/threonine-protein kinase receptor R3,ACVL1_HUMAN,P37023,66,serinethreonine_protein_kinase_receptor_r3,
+469,Tyrosine-protein kinase ABL1,ABL1_HUMAN,P00519,994,tyrosine_protein_kinase_abl1,./KInase_Denise/decoys_Tyrosine_protein_kinase_ABL1.sdf
+570,RAC-alpha serine/threonine-protein kinase,AKT1_HUMAN,P31749,907,rac_alpha_serinethreonine_protein_kinase,
+1100,Beta-adrenergic receptor kinase 1,ARBK1_HUMAN,P25098,84,beta_adrenergic_receptor_kinase_1,
+1177,RAC-beta serine/threonine-protein kinase,AKT2_HUMAN,P31751,330,rac_beta_serinethreonine_protein_kinase,
+1178,RAC-gamma serine/threonine-protein kinase,AKT3_HUMAN,Q9Y243,106,rac_gamma_serinethreonine_protein_kinase,
+1278,Serine-protein kinase ATM,ATM_HUMAN,Q13315,19,serine_protein_kinase_atm,
+1283,Serine/threonine-protein kinase ATR,ATR_HUMAN,Q13535,74,serinethreonine_protein_kinase_atr,
+1297,Aurora kinase C,AURKC_HUMAN,Q9UQB9,61,aurora_kinase_c,
+1341,Tyrosine-protein kinase Blk,BLK_HUMAN,P51451,39,tyrosine_protein_kinase_blk,./KInase_Denise/decoys_Tyrosine_protein_kinase_Blk.sdf
+1556,Aurora kinase B,AURKB_HUMAN,Q96GD4,718,aurora_kinase_b,
+1574,Aurora kinase A,AURKA_HUMAN,O14965,1026,aurora_kinase_a,
+1625,Serine/threonine-protein kinase B-raf,BRAF_HUMAN,P15056,1157,serinethreonine_protein_kinase_b_raf,
+1908,Cytoplasmic tyrosine-protein kinase BMX,BMX_HUMAN,P51813,26,cytoplasmic_tyrosine_protein_kinase_bmx,
+1917,Tyrosine-protein kinase BTK,BTK_HUMAN,Q06187,476,tyrosine_protein_kinase_btk,./KInase_Denise/decoys_Tyrosine_protein_kinase_BTK.sdf
+2210,Mitotic checkpoint serine/threonine-protein kinase BUB1,BUB1_HUMAN,O43683,15,mitotic_checkpoint_serinethreonine_protein_kinase_bub1,
+2360,Cell division cycle 7-related protein kinase,CDC7_HUMAN,O00311,181,cell_division_cycle_7_related_protein_kinase,
+2442,Cyclin-dependent kinase 9,CDK9_HUMAN,P50750,188,cyclin_dependent_kinase_9,
+2528,Dual specificity protein kinase CLK2,CLK2_HUMAN,P49760,22,dual_specificity_protein_kinase_clk2,
+2529,Dual specificity protein kinase CLK4,CLK4_HUMAN,Q9HAZ1,35,dual_specificity_protein_kinase_clk4,
+2582,Serine/threonine-protein kinase Chk1,CHK1_HUMAN,O14757,955,serinethreonine_protein_kinase_chk1,
+2702,Serine/threonine-protein kinase Chk2,CHK2_HUMAN,O96017,74,serinethreonine_protein_kinase_chk2,
+2781,Cyclin-dependent kinase 2,CDK2_HUMAN,P24941,579,cyclin_dependent_kinase_2,
+2782,Cyclin-dependent kinase 7,CDK7_HUMAN,P50613,35,cyclin_dependent_kinase_7,
+2783,Cyclin-dependent kinase 8,CDK8_HUMAN,P49336,104,cyclin_dependent_kinase_8,
+3004,Cyclin-dependent kinase 19,CDK19_HUMAN,Q9BWU1,17,cyclin_dependent_kinase_19,
+3005,Cyclin-dependent kinase 1,CDK1_HUMAN,P06493,265,cyclin_dependent_kinase_1,
+3006,Cyclin-dependent-like kinase 5,CDK5_HUMAN,Q00535,53,cyclin_dependent_like_kinase_5,
+3144,Cyclin-dependent kinase 4,CDK4_HUMAN,P11802,542,cyclin_dependent_kinase_4,
+3145,Cyclin-dependent kinase 6,CDK6_HUMAN,Q00534,208,cyclin_dependent_kinase_6,
+3522,Casein kinase II subunit alpha',CSK22_HUMAN,P19784,102,casein_kinase_ii_subunit_alpha,
+3775,Dual specificity protein kinase CLK1,CLK1_HUMAN,P49759,66,dual_specificity_protein_kinase_clk1,
+3915,Casein kinase II subunit alpha,CSK21_HUMAN,P68400,200,casein_kinase_ii_subunit_alpha,
+4068,Macrophage colony-stimulating factor 1 receptor,CSF1R_HUMAN,P07333,500,macrophage_colony_stimulating_factor_1_receptor,
+4368,Discoidin domain-containing receptor 2,DDR2_HUMAN,Q16832,66,discoidin_domain_containing_receptor_2,
+4373,Death-associated protein kinase 3,DAPK3_HUMAN,O43293,17,death_associated_protein_kinase_3,
+4383,Deoxycytidine kinase,DCK_HUMAN,P27707,99,deoxycytidine_kinase,
+4573,Epithelial discoidin domain-containing receptor 1,DDR1_HUMAN,Q08345,77,epithelial_discoidin_domain_containing_receptor_1,
+4841,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,DYR1A_HUMAN,Q13627,77,dual_specificity_tyrosine_phosphorylation_regulated_kinase_1a,
+4889,Dual specificity tyrosine-phosphorylation-regulated kinase 1B,DYR1B_HUMAN,Q9Y463,70,dual_specificity_tyrosine_phosphorylation_regulated_kinase_1b,
+4969,Epidermal growth factor receptor,EGFR_HUMAN,P00533,2112,epidermal_growth_factor_receptor,
+5133,Ephrin type-B receptor 2,EPHB2_HUMAN,P29323,16,ephrin_type_b_receptor_2,
+5174,Eukaryotic translation initiation factor 2-alpha kinase 3,E2AK3_HUMAN,Q9NZJ5,77,eukaryotic_translation_initiation_factor_2_alpha_kinase_3,
+5230,Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1_HUMAN,O75460,29,serinethreonine_protein_kinaseendoribonuclease_ire1,
+5454,Focal adhesion kinase 1,FAK1_HUMAN,Q05397,400,focal_adhesion_kinase_1,
+5479,Receptor tyrosine-protein kinase erbB-2,ERBB2_HUMAN,P04626,449,receptor_tyrosine_protein_kinase_erbb_2,
+5480,Receptor tyrosine-protein kinase erbB-4,ERBB4_HUMAN,Q15303,58,receptor_tyrosine_protein_kinase_erbb_4,./KInase_Denise/decoys_Receptor_tyrosine_protein_kinase_erbB_4.sdf
+5647,Ephrin type-A receptor 2,EPHA2_HUMAN,P29317,22,ephrin_type_a_receptor_2,
+5648,Ephrin type-A receptor 3,EPHA3_HUMAN,P29320,20,ephrin_type_a_receptor_3,
+5652,Ephrin type-B receptor 4,EPHB4_HUMAN,P54760,108,ephrin_type_b_receptor_4,
+5793,Fibroblast growth factor receptor 2,FGFR2_HUMAN,P21802,201,fibroblast_growth_factor_receptor_2,
+5794,Fibroblast growth factor receptor 3,FGFR3_HUMAN,P22607,372,fibroblast_growth_factor_receptor_3,
+5795,Fibroblast growth factor receptor 4,FGFR4_HUMAN,P22455,29,fibroblast_growth_factor_receptor_4,
+5803,Protein-tyrosine kinase 2-beta,FAK2_HUMAN,Q14289,34,protein_tyrosine_kinase_2_beta,./KInase_Denise/decoys_Protein_tyrosine_kinase_2_beta.sdf
+5845,Fibroblast growth factor receptor 1,FGFR1_HUMAN,P11362,414,fibroblast_growth_factor_receptor_1,
+6043,Tyrosine-protein kinase Fer,FER_HUMAN,P16591,15,tyrosine_protein_kinase_fer,./KInase_Denise/decoys_Tyrosine_protein_kinase_Fer.sdf
+6205,Tyrosine-protein kinase Fyn,FYN_HUMAN,P06241,47,tyrosine_protein_kinase_fyn,./KInase_Denise/decoys_Tyrosine_protein_kinase_Fyn.sdf
+6223,Cyclin-G-associated kinase,GAK_HUMAN,O14976,33,cyclin_g_associated_kinase,
+6240,Receptor-type tyrosine-protein kinase FLT3,FLT3_HUMAN,P36888,874,receptor_type_tyrosine_protein_kinase_flt3,./KInase_Denise/decoys_Receptor_type_tyrosine_protein_kinase_FLT3.sdf
+6348,Tyrosine-protein kinase FRK,FRK_HUMAN,P42685,15,tyrosine_protein_kinase_frk,./KInase_Denise/decoys_Tyrosine_protein_kinase_FRK.sdf
+6391,Tyrosine-protein kinase Fgr,FGR_HUMAN,P09769,22,tyrosine_protein_kinase_fgr,./KInase_Denise/decoys_Tyrosine_protein_kinase_Fgr.sdf
+7019,Glycogen synthase kinase-3 alpha,GSK3A_HUMAN,P49840,120,glycogen_synthase_kinase_3_alpha,
+7020,Glycogen synthase kinase-3 beta,GSK3B_HUMAN,P49841,627,glycogen_synthase_kinase_3_beta,
+7302,Tyrosine-protein kinase HCK,HCK_HUMAN,P08631,104,tyrosine_protein_kinase_hck,./KInase_Denise/decoys_Tyrosine_protein_kinase_HCK.sdf
+7911,Insulin-like growth factor 1 receptor,IGF1R_HUMAN,P08069,812,insulin_like_growth_factor_1_receptor,
+7971,Integrin-linked protein kinase,ILK_HUMAN,Q13418,20,integrin_linked_protein_kinase,
+8042,Inhibitor of nuclear factor kappa-B kinase subunit alpha,IKKA_HUMAN,O15111,26,inhibitor_of_nuclear_factor_kappa_b_kinase_subunit_alpha,
+8043,Inhibitor of nuclear factor kappa-B kinase subunit beta,IKKB_HUMAN,O14920,300,inhibitor_of_nuclear_factor_kappa_b_kinase_subunit_beta,
+8077,Insulin receptor,INSR_HUMAN,P06213,87,insulin_receptor,
+8095,Tyrosine-protein kinase ITK/TSK,ITK_HUMAN,Q08881,279,tyrosine_protein_kinase_itktsk,
+8152,Casein kinase I isoform delta,KC1D_HUMAN,P48730,29,casein_kinase_i_isoform_delta,
+8154,Calcium/calmodulin-dependent protein kinase type II subunit delta,KCC2D_HUMAN,Q13557,21,calciumcalmodulin_dependent_protein_kinase_type_ii_subunit_delta,
+8197,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,IKKE_HUMAN,Q14164,58,inhibitor_of_nuclear_factor_kappa_b_kinase_subunit_epsilon,
+8242,Tyrosine-protein kinase JAK2,JAK2_HUMAN,O60674,1546,tyrosine_protein_kinase_jak2,./KInase_Denise/decoys_Tyrosine_protein_kinase_JAK2.sdf
+8243,Tyrosine-protein kinase JAK3,JAK3_HUMAN,P52333,857,tyrosine_protein_kinase_jak3,./KInase_Denise/decoys_Tyrosine_protein_kinase_JAK3.sdf
+8267,Tyrosine-protein kinase JAK1,JAK1_HUMAN,P23458,1246,tyrosine_protein_kinase_jak1,./KInase_Denise/decoys_Tyrosine_protein_kinase_JAK1.sdf
+8300,cAMP-dependent protein kinase catalytic subunit alpha,KAPCA_HUMAN,P17612,23,camp_dependent_protein_kinase_catalytic_subunit_alpha,./decoys_cAMP_dependent_protein_kinase_catalytic_subunit_alpha.sdf
+8529,Interleukin-1 receptor-associated kinase 1,IRAK1_HUMAN,P51617,20,interleukin_1_receptor_associated_kinase_1,
+8530,Interleukin-1 receptor-associated kinase 4,IRAK4_HUMAN,Q9NWZ3,181,interleukin_1_receptor_associated_kinase_4,
+8626,Glucokinase,HXK4_HUMAN,P35557,73,glucokinase,
+8857,Ribosomal protein S6 kinase alpha-1,KS6A1_HUMAN,Q15418,18,ribosomal_protein_s6_kinase_alpha_1,./KInase_Denise/decoys_Ribosomal_protein_S6_kinase_alpha_1.sdf
+8858,Ribosomal protein S6 kinase beta-1,KS6B1_HUMAN,P23443,288,ribosomal_protein_s6_kinase_beta_1,./KInase_Denise/decoys_Ribosomal_protein_S6_kinase_beta_1.sdf
+8983,Mevalonate kinase,KIME_HUMAN,Q03426,28,mevalonate_kinase,
+8988,Mast/stem cell growth factor receptor Kit,KIT_HUMAN,P10721,663,maststem_cell_growth_factor_receptor_kit,
+9058,Tyrosine-protein kinase Lck,LCK_HUMAN,P06239,651,tyrosine_protein_kinase_lck,./KInase_Denise/decoys_Tyrosine_protein_kinase_Lck.sdf
+9140,Ribosomal protein S6 kinase alpha-2,KS6A2_HUMAN,Q15349,18,ribosomal_protein_s6_kinase_alpha_2,./KInase_Denise/decoys_Ribosomal_protein_S6_kinase_alpha_2.sdf
+9141,Ribosomal protein S6 kinase alpha-3,KS6A3_HUMAN,P51812,115,ribosomal_protein_s6_kinase_alpha_3,./KInase_Denise/decoys_Ribosomal_protein_S6_kinase_alpha_3.sdf
+9189,Ketohexokinase,KHK_HUMAN,P50053,16,ketohexokinase,
+9230,Protein kinase C delta type,KPCD_HUMAN,Q05655,243,protein_kinase_c_delta_type,./KInase_Denise/decoys_Protein_kinase_C_delta_type.sdf
+9232,Protein kinase C eta type,KPCL_HUMAN,P24723,145,protein_kinase_c_eta_type,./KInase_Denise/decoys_Protein_kinase_C_eta_type.sdf
+9233,Protein kinase C theta type,KPCT_HUMAN,Q04759,313,protein_kinase_c_theta_type,./KInase_Denise/decoys_Protein_kinase_C_theta_type.sdf
+9301,Protein kinase C alpha type,KPCA_HUMAN,P17252,306,protein_kinase_c_alpha_type,
+9302,Protein kinase C beta type,KPCB_HUMAN,P05771,338,protein_kinase_c_beta_type,
+9303,Protein kinase C epsilon type,KPCE_HUMAN,Q02156,168,protein_kinase_c_epsilon_type,./KInase_Denise/decoys_Protein_kinase_C_epsilon_type.sdf
+9304,Protein kinase C gamma type,KPCG_HUMAN,P05129,70,protein_kinase_c_gamma_type,./KInase_Denise/decoys_Protein_kinase_C_gamma_type.sdf
+9305,Protein kinase C zeta type,KPCZ_HUMAN,Q05513,19,protein_kinase_c_zeta_type,./KInase_Denise/decoys_Protein_kinase_C_zeta_type.sdf
+9336,Ribosomal protein S6 kinase alpha-5,KS6A5_HUMAN,O75582,49,ribosomal_protein_s6_kinase_alpha_5,./KInase_Denise/decoys_Ribosomal_protein_S6_kinase_alpha_5.sdf
+9339,Tyrosine-protein kinase SYK,KSYK_HUMAN,P43405,1019,tyrosine_protein_kinase_syk,./KInase_Denise/decoys_Tyrosine_protein_kinase_SYK.sdf
+9431,LIM domain kinase 1,LIMK1_HUMAN,P53667,67,lim_domain_kinase_1,
+9432,LIM domain kinase 2,LIMK2_HUMAN,P53671,117,lim_domain_kinase_2,
+9505,Serine/threonine-protein kinase D1,KPCD1_HUMAN,Q15139,72,serinethreonine_protein_kinase_d1,
+9506,Serine/threonine-protein kinase D2,KPCD2_HUMAN,Q9BZL6,18,serinethreonine_protein_kinase_d2,
+9561,Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2_HUMAN,Q5S007,578,leucine_rich_repeat_serinethreonine_protein_kinase_2,
+9591,Tyrosine-protein kinase Lyn,LYN_HUMAN,P07948,85,tyrosine_protein_kinase_lyn,./KInase_Denise/decoys_Tyrosine_protein_kinase_Lyn.sdf
+9604,Mitogen-activated protein kinase kinase kinase 9,M3K9_HUMAN,P80192,29,mitogen_activated_protein_kinase_kinase_kinase_9,
+9664,Hepatocyte growth factor receptor,MET_HUMAN,P08581,1714,hepatocyte_growth_factor_receptor,
+9685,Mitogen-activated protein kinase kinase kinase 11,M3K11_HUMAN,Q16584,31,mitogen_activated_protein_kinase_kinase_kinase_11,
+9687,Mitogen-activated protein kinase kinase kinase 14,M3K14_HUMAN,Q99558,545,mitogen_activated_protein_kinase_kinase_kinase_14,
+9690,Mitogen-activated protein kinase kinase kinase 5,M3K5_HUMAN,Q99683,61,mitogen_activated_protein_kinase_kinase_kinase_5,
+9691,Mitogen-activated protein kinase kinase kinase 7,M3K7_HUMAN,O43318,45,mitogen_activated_protein_kinase_kinase_kinase_7,
+9781,Mitogen-activated protein kinase kinase kinase 12,M3K12_HUMAN,Q12852,848,mitogen_activated_protein_kinase_kinase_kinase_12,
+9835,Mitogen-activated protein kinase kinase kinase 19,M3K19_HUMAN,Q56UN5,17,mitogen_activated_protein_kinase_kinase_kinase_19,
+9916,MAP kinase-activated protein kinase 2,MAPK2_HUMAN,P49137,212,map_kinase_activated_protein_kinase_2,
+10027,Mitogen-activated protein kinase kinase kinase kinase 4,M4K4_HUMAN,O95819,29,mitogen_activated_protein_kinase_kinase_kinase_kinase_4,
+10136,Mitogen-activated protein kinase kinase kinase 8,M3K8_HUMAN,P41279,51,mitogen_activated_protein_kinase_kinase_kinase_8,
+10202,Mitogen-activated protein kinase 14,MK14_HUMAN,Q16539,1725,mitogen_activated_protein_kinase_14,
+10283,Dual specificity mitogen-activated protein kinase kinase 2,MP2K2_HUMAN,P36507,21,dual_specificity_mitogen_activated_protein_kinase_kinase_2,
+10301,Mitogen-activated protein kinase 1,MK01_HUMAN,P28482,822,mitogen_activated_protein_kinase_1,
+10302,Mitogen-activated protein kinase 3,MK03_HUMAN,P27361,32,mitogen_activated_protein_kinase_3,
+10305,Mitogen-activated protein kinase 9,MK09_HUMAN,P45984,105,mitogen_activated_protein_kinase_9,
+10328,Dual specificity mitogen-activated protein kinase kinase 1,MP2K1_HUMAN,Q02750,297,dual_specificity_mitogen_activated_protein_kinase_kinase_1,
+10377,Misshapen-like kinase 1,MINK1_HUMAN,Q8N4C8,18,misshapen_like_kinase_1,
+10403,MAP kinase-interacting serine/threonine-protein kinase 2,MKNK2_HUMAN,Q9HBH9,117,map_kinase_interacting_serinethreonine_protein_kinase_2,
+10455,Maternal embryonic leucine zipper kinase,MELK_HUMAN,Q14680,672,maternal_embryonic_leucine_zipper_kinase,
+10456,Tyrosine-protein kinase Mer,MERTK_HUMAN,Q12866,99,tyrosine_protein_kinase_mer,./KInase_Denise/decoys_Tyrosine_protein_kinase_Mer.sdf
+10467,Mitogen-activated protein kinase 8,MK08_HUMAN,P45983,320,mitogen_activated_protein_kinase_8,
+10468,Mitogen-activated protein kinase 10,MK10_HUMAN,P53779,190,mitogen_activated_protein_kinase_10,
+10469,Mitogen-activated protein kinase 11,MK11_HUMAN,Q15759,56,mitogen_activated_protein_kinase_11,
+10471,Mitogen-activated protein kinase 13,MK13_HUMAN,O15264,33,mitogen_activated_protein_kinase_13,
+10487,MAP kinase-interacting serine/threonine-protein kinase 1,MKNK1_HUMAN,Q9BUB5,17,map_kinase_interacting_serinethreonine_protein_kinase_1,
+10627,"Myosin light chain kinase, smooth muscle",MYLK_HUMAN,Q15746,16,myosin_light_chain_kinase_smooth_muscle,
+11035,Serine/threonine-protein kinase mTOR,MTOR_HUMAN,P42345,1946,serinethreonine_protein_kinase_mtor,
+11264,BDNF/NT-3 growth factors receptor,NTRK2_HUMAN,Q16620,95,bdnfnt_3_growth_factors_receptor,
+11265,NT-3 growth factor receptor,NTRK3_HUMAN,Q16288,33,nt_3_growth_factor_receptor,./KInase_Denise/decoys_NT_3_growth_factor_receptor.sdf
+11323,Serine/threonine-protein kinase Nek1,NEK1_HUMAN,Q96PY6,173,serinethreonine_protein_kinase_nek1,
+11447,High affinity nerve growth factor receptor,NTRK1_HUMAN,P04629,511,high_affinity_nerve_growth_factor_receptor,
+11723,NUAK family SNF1-like kinase 1,NUAK1_HUMAN,O60285,20,nuak_family_snf1_like_kinase_1,./KInase_Denise/decoys_NUAK_family_SNF1_like_kinase_1.sdf
+11788,Serine/threonine-protein kinase PAK 3,PAK3_HUMAN,O75914,16,serinethreonine_protein_kinase_pak_3,
+12534,Serine/threonine-protein kinase PAK 1,PAK1_HUMAN,Q13153,97,serinethreonine_protein_kinase_pak_1,
+12535,Serine/threonine-protein kinase PAK 4,PAK4_HUMAN,O96013,85,serinethreonine_protein_kinase_pak_4,
+12567,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial",PDK1_HUMAN,Q15118,200,pyruvate_dehydrogenase_(acetyl_transferring)_kinase_isozyme_1_mitochondrial,
+12568,"[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial",PDK2_HUMAN,Q15119,86,pyruvate_dehydrogenase_(acetyl_transferring)_kinase_isozyme_2_mitochondrial,
+12659,Platelet-derived growth factor receptor beta,PGFRB_HUMAN,P09619,400,platelet_derived_growth_factor_receptor_beta,
+12719,Serine/threonine-protein kinase PAK 2,PAK2_HUMAN,Q13177,26,serinethreonine_protein_kinase_pak_2,
+12853,3-phosphoinositide-dependent protein kinase 1,PDPK1_HUMAN,O15530,313,3_phosphoinositide_dependent_protein_kinase_1,
+12878,Serine/threonine-protein kinase pim-3,PIM3_HUMAN,Q86V86,594,serinethreonine_protein_kinase_pim_3,
+12948,Platelet-derived growth factor receptor alpha,PGFRA_HUMAN,P16234,171,platelet_derived_growth_factor_receptor_alpha,
+12951,Phosphoglycerate kinase 1,PGK1_HUMAN,P00558,16,phosphoglycerate_kinase_1,
+13057,Serine/threonine-protein kinase pim-2,PIM2_HUMAN,Q9P1W9,602,serinethreonine_protein_kinase_pim_2,
+13067,Phosphatidylinositol 3-kinase catalytic subunit type 3,PK3C3_HUMAN,Q8NEB9,23,phosphatidylinositol_3_kinase_catalytic_subunit_type_3,
+13068,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",PK3CB_HUMAN,P42338,643,phosphatidylinositol_45_bisphosphate_3_kinase_catalytic_subunit_beta_isoform,
+13069,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",PK3CD_HUMAN,O00329,788,phosphatidylinositol_45_bisphosphate_3_kinase_catalytic_subunit_delta_isoform,
+13082,Serine/threonine-protein kinase N1,PKN1_HUMAN,Q16512,18,serinethreonine_protein_kinase_n1,
+13088,Serine/threonine-protein kinase PLK3,PLK3_HUMAN,Q9H4B4,33,serinethreonine_protein_kinase_plk3,
+13157,Serine/threonine-protein kinase PLK2,PLK2_HUMAN,Q9NYY3,28,serinethreonine_protein_kinase_plk2,
+13209,Serine/threonine-protein kinase pim-1,PIM1_HUMAN,P11309,1277,serinethreonine_protein_kinase_pim_1,
+13213,Serine/threonine-protein kinase N2,PKN2_HUMAN,Q16513,15,serinethreonine_protein_kinase_n2,
+13226,Serine/threonine-protein kinase PLK1,PLK1_HUMAN,P53350,210,serinethreonine_protein_kinase_plk1,
+13260,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PK3CA_HUMAN,P42336,1680,phosphatidylinositol_45_bisphosphate_3_kinase_catalytic_subunit_alpha_isoform,
+13344,Phosphatidylinositol 4-kinase alpha,PI4KA_HUMAN,P42356,21,phosphatidylinositol_4_kinase_alpha,
+13361,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",PK3CG_HUMAN,P48736,469,phosphatidylinositol_45_bisphosphate_3_kinase_catalytic_subunit_gamma_isoform,
+13389,Serine/threonine-protein kinase PLK4,PLK4_HUMAN,O00444,106,serinethreonine_protein_kinase_plk4,
+13665,Protein-tyrosine kinase 6,PTK6_HUMAN,Q13882,58,protein_tyrosine_kinase_6,./KInase_Denise/decoys_Protein_tyrosine_kinase_6.sdf
+13787,DNA-dependent protein kinase catalytic subunit,PRKDC_HUMAN,P78527,175,dna_dependent_protein_kinase_catalytic_subunit,
+14082,RAF proto-oncogene serine/threonine-protein kinase,RAF1_HUMAN,P04049,183,raf_proto_oncogene_serinethreonine_protein_kinase,
+14489,Receptor-interacting serine/threonine-protein kinase 2,RIPK2_HUMAN,O43353,32,receptor_interacting_serinethreonine_protein_kinase_2,
+14497,Proto-oncogene tyrosine-protein kinase receptor Ret,RET_HUMAN,P07949,256,proto_oncogene_tyrosine_protein_kinase_receptor_ret,./KInase_Denise/decoys_Proto_oncogene_tyrosine_protein_kinase_receptor_Ret.sdf
+14542,Receptor-interacting serine/threonine-protein kinase 1,RIPK1_HUMAN,Q13546,61,receptor_interacting_serinethreonine_protein_kinase_1,
+14720,2-5A-dependent ribonuclease,RN5A_HUMAN,Q05823,39,2_5a_dependent_ribonuclease,
+14730,Macrophage-stimulating protein receptor,RON_HUMAN,Q04912,37,macrophage_stimulating_protein_receptor,
+14778,Proto-oncogene tyrosine-protein kinase ROS,ROS1_HUMAN,P08922,49,proto_oncogene_tyrosine_protein_kinase_ros,./KInase_Denise/decoys_Proto_oncogene_tyrosine_protein_kinase_ROS.sdf
+14787,Rho-associated protein kinase 1,ROCK1_HUMAN,Q13464,157,rho_associated_protein_kinase_1,./KInase_Denise/decoys_Rho_associated_protein_kinase_1.sdf
+14788,Rho-associated protein kinase 2,ROCK2_HUMAN,O75116,806,rho_associated_protein_kinase_2,./KInase_Denise/decoys_Rho_associated_protein_kinase_2.sdf
+15161,Serine/threonine-protein kinase SIK1,SIK1_HUMAN,P57059,17,serinethreonine_protein_kinase_sik1,
+16037,STE20-like serine/threonine-protein kinase,SLK_HUMAN,Q9H2G2,18,ste20_like_serinethreonine_protein_kinase,
+16099,Proto-oncogene tyrosine-protein kinase Src,SRC_HUMAN,P12931,849,proto_oncogene_tyrosine_protein_kinase_src,./KInase_Denise/decoys_Proto_oncogene_tyrosine_protein_kinase_Src.sdf
+16136,Sphingosine kinase 1,SPHK1_HUMAN,Q9NYA1,33,sphingosine_kinase_1,
+16280,Serine/threonine-protein kinase Sgk1,SGK1_HUMAN,O00141,72,serinethreonine_protein_kinase_sgk1,
+16501,Serine/threonine-protein kinase SIK2,SIK2_HUMAN,Q9H0K1,20,serinethreonine_protein_kinase_sik2,
+16621,Serine/threonine-protein kinase 17A,ST17A_HUMAN,Q9UEE5,23,serinethreonine_protein_kinase_17a,
+16697,Serine/threonine-protein kinase 4,STK4_HUMAN,Q13043,16,serinethreonine_protein_kinase_4,
+16887,Serine/threonine-protein kinase 17B,ST17B_HUMAN,O94768,19,serinethreonine_protein_kinase_17b,
+16909,Serine/threonine-protein kinase 10,STK10_HUMAN,O94804,24,serinethreonine_protein_kinase_10,
+17115,Tyrosine-protein kinase Tec,TEC_HUMAN,P42680,17,tyrosine_protein_kinase_tec,./KInase_Denise/decoys_Tyrosine_protein_kinase_Tec.sdf
+17375,TGF-beta receptor type-1,TGFR1_HUMAN,P36897,332,tgf_beta_receptor_type_1,
+17476,Angiopoietin-1 receptor,TIE2_HUMAN,Q02763,215,angiopoietin_1_receptor,
+17495,Serine/threonine-protein kinase TBK1,TBK1_HUMAN,Q9UHD2,110,serinethreonine_protein_kinase_tbk1,
+17692,Tyrosine-protein kinase receptor TYRO3,TYRO3_HUMAN,Q06418,30,tyrosine_protein_kinase_receptor_tyro3,./KInase_Denise/decoys_Tyrosine_protein_kinase_receptor_TYRO3.sdf
+17867,TRAF2 and NCK-interacting protein kinase,TNIK_HUMAN,Q9UKE5,124,traf2_and_nck_interacting_protein_kinase,
+18401,Serine/threonine-protein kinase TNNI3K,TNI3K_HUMAN,Q59H18,29,serinethreonine_protein_kinase_tnni3k,
+18451,Vascular endothelial growth factor receptor 2,VGFR2_HUMAN,P35968,2385,vascular_endothelial_growth_factor_receptor_2,./KInase_Denise/decoys_Vascular_endothelial_growth_factor_receptor_2.sdf
+18616,Non-receptor tyrosine-protein kinase TYK2,TYK2_HUMAN,P29597,175,non_receptor_tyrosine_protein_kinase_tyk2,./KInase_Denise/decoys_Non_receptor_tyrosine_protein_kinase_TYK2.sdf
+18652,Tyrosine-protein kinase receptor UFO,UFO_HUMAN,P30530,53,tyrosine_protein_kinase_receptor_ufo,./KInase_Denise/decoys_Tyrosine_protein_kinase_receptor_UFO.sdf
+18746,Tyrosine-protein kinase TXK,TXK_HUMAN,P42681,27,tyrosine_protein_kinase_txk,./KInase_Denise/decoys_Tyrosine_protein_kinase_TXK.sdf
+18823,Dual specificity protein kinase TTK,TTK_HUMAN,P33981,257,dual_specificity_protein_kinase_ttk,
+19060,Wee1-like protein kinase,WEE1_HUMAN,P30291,157,wee1_like_protein_kinase,
+19095,Vascular endothelial growth factor receptor 1,VGFR1_HUMAN,P17948,228,vascular_endothelial_growth_factor_receptor_1,./KInase_Denise/decoys_Vascular_endothelial_growth_factor_receptor_1.sdf
+19096,Vascular endothelial growth factor receptor 3,VGFR3_HUMAN,P35916,151,vascular_endothelial_growth_factor_receptor_3,./KInase_Denise/decoys_Vascular_endothelial_growth_factor_receptor_3.sdf
+19310,Tyrosine-protein kinase Yes,YES_HUMAN,P07947,82,tyrosine_protein_kinase_yes,./KInase_Denise/decoys_Tyrosine_protein_kinase_Yes.sdf
+19725,Tyrosine-protein kinase ZAP-70,ZAP70_HUMAN,P43403,26,tyrosine_protein_kinase_zap_70,./KInase_Denise/decoys_Tyrosine_protein_kinase_ZAP_70.sdf

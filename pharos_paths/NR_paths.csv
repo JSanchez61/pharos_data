@@ -1,0 +1,29 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+875,Androgen receptor,ANDR_HUMAN,P10275,1055,androgen_receptor,./dewan_nuclear_factor/decoys_androgen_receptor.sdf
+5154,Estrogen receptor,ESR1_HUMAN,P03372,1378,estrogen_receptor,./Nuclearfactors_Denise/decoys_estrogen_receptor.sdf
+5232,Steroid hormone receptor ERR1,ERR1_HUMAN,P11474,33,steroid_hormone_receptor_err1,./Nuclearfactors_Denise/decoys_steroid_hormone_receptor_err1.sdf
+5234,Estrogen-related receptor gamma,ERR3_HUMAN,P62508,15,estrogen_related_receptor_gamma,
+5666,Estrogen receptor beta,ESR2_HUMAN,Q92731,1230,estrogen_receptor_beta,
+6487,Glucocorticoid receptor,GCR_HUMAN,P04150,2512,glucocorticoid_receptor,./dewan_nuclear_factor/decoys_glucocorticoid_receptor.sdf
+9891,Mineralocorticoid receptor,MCR_HUMAN,P08235,225,mineralocorticoid_receptor,./Nuclearfactors_Denise/decoys_mineralocorticoid_receptor.sdf
+11234,Nuclear receptor subfamily 1 group I member 2,NR1I2_HUMAN,O75469,46,nuclear_receptor_subfamily_1_group_i_member_2,./Nuclearfactors_Denise/decoys_nuclear_receptor_subfamily_1_group_i_member_2.sdf
+11235,Nuclear receptor subfamily 1 group I member 3,NR1I3_HUMAN,Q14994,36,nuclear_receptor_subfamily_1_group_i_member_3,./Nuclearfactors_Denise/decoys_nuclear_receptor_subfamily_1_group_i_member_3.sdf
+11375,Oxysterols receptor LXR-alpha,NR1H3_HUMAN,Q13133,329,oxysterols_receptor_lxr_alpha,./Nuclearfactors_Denise/decoys_oxysterols_receptor_lxr_alpha.sdf
+11551,Nuclear receptor subfamily 1 group D member 1,NR1D1_HUMAN,P20393,15,nuclear_receptor_subfamily_1_group_d_member_1,
+11552,Bile acid receptor,NR1H4_HUMAN,Q96RI1,216,bile_acid_receptor,./Nuclearfactors_Denise/decoys_bile_acid_receptor.sdf
+11614,Oxysterols receptor LXR-beta,NR1H2_HUMAN,P55055,407,oxysterols_receptor_lxr_beta,./Nuclearfactors_Denise/decoys_oxysterols_receptor_lxr_beta.sdf
+13436,Peroxisome proliferator-activated receptor gamma,PPARG_HUMAN,P37231,1273,peroxisome_proliferator_activated_receptor_gamma,./dewan_nuclear_factor/decoys_peroxisome_proliferator_activated_receptor_gamma.sdf
+13493,Peroxisome proliferator-activated receptor delta,PPARD_HUMAN,Q03181,448,peroxisome_proliferator_activated_receptor_delta,./Nuclearfactors_Denise/decoys_peroxisome_proliferator_activated_receptor_delta.sdf
+13566,Peroxisome proliferator-activated receptor alpha,PPARA_HUMAN,Q07869,478,peroxisome_proliferator_activated_receptor_alpha,./Nuclearfactors_Denise/decoys_peroxisome_proliferator_activated_receptor_alpha.sdf
+13783,Progesterone receptor,PRGR_HUMAN,P06401,831,progesterone_receptor,./dewan_nuclear_factor/decoys_progesterone_receptor.sdf
+14053,Retinoic acid receptor alpha,RARA_HUMAN,P10276,146,retinoic_acid_receptor_alpha,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_alpha.sdf
+14054,Retinoic acid receptor gamma,RARG_HUMAN,P13631,187,retinoic_acid_receptor_gamma,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_gamma.sdf
+14092,Retinoic acid receptor beta,RARB_HUMAN,P10826,198,retinoic_acid_receptor_beta,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_beta.sdf
+14836,Nuclear receptor ROR-beta,RORB_HUMAN,Q92753,18,nuclear_receptor_ror_beta,
+14837,Nuclear receptor ROR-gamma,RORG_HUMAN,P51449,434,nuclear_receptor_ror_gamma,./Nuclearfactors_Denise/decoys_nuclear_receptor_ror_gamma.sdf
+15016,Retinoic acid receptor RXR-gamma,RXRG_HUMAN,P48443,86,retinoic_acid_receptor_rxr_gamma,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_rxr_gamma.sdf
+15182,Retinoic acid receptor RXR-alpha,RXRA_HUMAN,P19793,302,retinoic_acid_receptor_rxr_alpha,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_rxr_alpha.sdf
+15716,Retinoic acid receptor RXR-beta,RXRB_HUMAN,P28702,87,retinoic_acid_receptor_rxr_beta,./Nuclearfactors_Denise/decoys_retinoic_acid_receptor_rxr_beta.sdf
+17382,Thyroid hormone receptor alpha,THA_HUMAN,P10827,165,thyroid_hormone_receptor_alpha,./Nuclearfactors_Denise/decoys_thyroid_hormone_receptor_alpha.sdf
+17465,Thyroid hormone receptor beta,THB_HUMAN,P10828,343,thyroid_hormone_receptor_beta,./Nuclearfactors_Denise/decoys_thyroid_hormone_receptor_beta.sdf
+19094,Vitamin D3 receptor,VDR_HUMAN,P11473,203,vitamin_d3_receptor,./Nuclearfactors_Denise/decoys_vitamin_d3_receptor.sdf

@@ -1,0 +1,7 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+504,Aryl hydrocarbon receptor,AHR_HUMAN,P35869,60,aryl_hydrocarbon_receptor,./daniel_transcription_factors/decoys_aryl_hydrocarbon_receptor.sdf
+7564,Hypoxia-inducible factor 1-alpha,HIF1A_HUMAN,Q16665,46,hypoxia_inducible_factor_1_alpha,./denise_transcription_factors/decoys_hypoxia_inducible_factor_1_alpha.sdf
+8112,Transcription factor AP-1,JUN_HUMAN,P05412,61,transcription_factor_ap_1,./denise_transcription_factors/decoys_transcription_factor_ap_1.sdf
+16685,Signal transducer and activator of transcription 6,STAT6_HUMAN,P42226,84,signal_transducer_and_activator_of_transcription_6,./denise_transcription_factors/decoys_signal_transducer_and_activator_of_transcription_6.sdf
+16901,Signal transducer and activator of transcription 3,STAT3_HUMAN,P40763,93,signal_transducer_and_activator_of_transcription_3,./denise_transcription_factors/decoys_signal_transducer_and_activator_of_transcription_3.sdf
+17529,Transcription factor p65,TF65_HUMAN,Q04206,28,transcription_factor_p65,./denise_transcription_factors/decoys_transcription_factor_p65.sdf

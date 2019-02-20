@@ -1,0 +1,43 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+738,Protein arginine N-methyltransferase 8,ANM8_HUMAN,Q9NR22,24,protein_arginine_n_methyltransferase_8,./denise_epigenetics/decoys_protein_arginine_n_methyltransferase_8.sdf
+1020,Protein arginine N-methyltransferase 6,ANM6_HUMAN,Q96LA8,33,protein_arginine_n_methyltransferase_6,./denise_epigenetics/decoys_protein_arginine_n_methyltransferase_6.sdf
+1218,Protein arginine N-methyltransferase 1,ANM1_HUMAN,Q99873,33,protein_arginine_n_methyltransferase_1,./denise_epigenetics/decoys_protein_arginine_n_methyltransferase_1.sdf
+1548,ATPase family AAA domain-containing protein 2,ATAD2_HUMAN,Q6PL18,60,atpase_family_aaa_domain_containing_protein_2,./denise_epigenetics/decoys_atpase_family_aaa_domain_containing_protein_2.sdf
+1628,Bromodomain-containing protein 2,BRD2_HUMAN,P25440,262,bromodomain_containing_protein_2,
+1629,Bromodomain-containing protein 3,BRD3_HUMAN,Q15059,297,bromodomain_containing_protein_3,./denise_epigenetics/decoys_bromodomain_containing_protein_3.sdf
+1630,Bromodomain-containing protein 4,BRD4_HUMAN,O60885,607,bromodomain_containing_protein_4,
+1631,Bromodomain-containing protein 9,BRD9_HUMAN,Q9H8M2,64,bromodomain_containing_protein_9,./denise_epigenetics/decoys_bromodomain_containing_protein_9.sdf
+1634,Peregrin,BRPF1_HUMAN,P55201,88,peregrin,./denise_epigenetics/decoys_peregrin.sdf
+1705,Histone-arginine methyltransferase CARM1,CARM1_HUMAN,Q86X55,51,histone_arginine_methyltransferase_carm1,./denise_epigenetics/decoys_histone_arginine_methyltransferase_carm1.sdf
+1751,Bromodomain-containing protein 7,BRD7_HUMAN,Q9NPI1,20,bromodomain_containing_protein_7,./Ionchannel_Denise/decoys_bromodomain_containing_protein_7.sdf
+1853,CREB-binding protein,CBP_HUMAN,Q92793,67,creb_binding_protein,./denise_epigenetics/decoys_creb_binding_protein.sdf
+4807,"Histone-lysine N-methyltransferase, H3 lysine-79 specific",DOT1L_HUMAN,Q8TEK3,91,histone_lysine_n_methyltransferase_h3_lysine_79_specific,./denise_epigenetics/decoys_histone_lysine_n_methyltransferase_h3_lysine_79_specific.sdf
+5021,Histone-lysine N-methyltransferase EHMT1,EHMT1_HUMAN,Q9H9B1,27,histone_lysine_n_methyltransferase_ehmt1,
+5022,Histone-lysine N-methyltransferase EHMT2,EHMT2_HUMAN,Q96KQ7,129,histone_lysine_n_methyltransferase_ehmt2,./denise_epigenetics/decoys_histone_lysine_n_methyltransferase_ehmt2.sdf
+5214,Histone acetyltransferase p300,EP300_HUMAN,Q09472,40,histone_acetyltransferase_p300,./denise_epigenetics/decoys_histone_acetyltransferase_p300.sdf
+5679,Histone-lysine N-methyltransferase EZH2,EZH2_HUMAN,Q15910,475,histone_lysine_n_methyltransferase_ezh2,
+7136,Histone deacetylase 10,HDA10_HUMAN,Q969S8,240,histone_deacetylase_10,./denise_epigenetics/decoys_histone_deacetylase_10.sdf
+7228,Histone deacetylase 8,HDAC8_HUMAN,Q9BY41,763,histone_deacetylase_8,
+7229,Histone deacetylase 9,HDAC9_HUMAN,Q9UKV0,141,histone_deacetylase_9,./denise_epigenetics/decoys_histone_deacetylase_9.sdf
+7334,Histone deacetylase 11,HDA11_HUMAN,Q96DB2,158,histone_deacetylase_11,./denise_epigenetics/decoys_histone_deacetylase_11.sdf
+7335,Histone deacetylase 1,HDAC1_HUMAN,Q13547,2848,histone_deacetylase_1,
+7336,Histone deacetylase 2,HDAC2_HUMAN,Q92769,867,histone_deacetylase_2,
+7412,Histone deacetylase 4,HDAC4_HUMAN,P56524,498,histone_deacetylase_4,
+7425,Histone deacetylase 3,HDAC3_HUMAN,O15379,770,histone_deacetylase_3,
+7426,Histone deacetylase 5,HDAC5_HUMAN,Q9UQL6,139,histone_deacetylase_5,./denise_epigenetics/decoys_histone_deacetylase_5.sdf
+7427,Histone deacetylase 6,HDAC6_HUMAN,Q9UBN7,1913,histone_deacetylase_6,
+7428,Histone deacetylase 7,HDAC7_HUMAN,Q8WUI4,122,histone_deacetylase_7,./denise_epigenetics/decoys_histone_deacetylase_7.sdf
+8339,Lysine-specific demethylase 4B,KDM4B_HUMAN,O94953,35,lysine_specific_demethylase_4b,./denise_epigenetics/decoys_lysine_specific_demethylase_4b.sdf
+8601,Lysine-specific demethylase 4C,KDM4C_HUMAN,Q9H3R0,82,lysine_specific_demethylase_4c,
+8603,Lysine-specific demethylase 4E,KDM4E_HUMAN,B2RXH2,25,lysine_specific_demethylase_4e,./denise_epigenetics/decoys_lysine_specific_demethylase_4e.sdf
+8789,Lysine-specific demethylase 2A,KDM2A_HUMAN,Q9Y2K7,30,lysine_specific_demethylase_2a,./denise_epigenetics/decoys_lysine_specific_demethylase_2a.sdf
+8792,Lysine-specific demethylase 4A,KDM4A_HUMAN,O75164,52,lysine_specific_demethylase_4a,./denise_epigenetics/decoys_lysine_specific_demethylase_4a.sdf
+8793,Lysine-specific demethylase 6B,KDM6B_HUMAN,O15054,27,lysine_specific_demethylase_6b,./denise_epigenetics/decoys_lysine_specific_demethylase_6b.sdf
+8900,Lethal(3)malignant brain tumor-like protein 3,LMBL3_HUMAN,Q96JM7,117,lethal(3)malignant_brain_tumor_like_protein_3,
+8976,Lysine-specific histone demethylase 1A,KDM1A_HUMAN,O60341,239,lysine_specific_histone_demethylase_1a,./denise_epigenetics/decoys_lysine_specific_histone_demethylase_1a.sdf
+15171,NAD-dependent protein deacetylase sirtuin-1,SIR1_HUMAN,Q96EB6,98,nad_dependent_protein_deacetylase_sirtuin_1,./denise_epigenetics/decoys_nad_dependent_protein_deacetylase_sirtuin_1.sdf
+15910,N-lysine methyltransferase SMYD2,SMYD2_HUMAN,Q9NRG4,36,n_lysine_methyltransferase_smyd2,./denise_epigenetics/decoys_n_lysine_methyltransferase_smyd2.sdf
+15951,NAD-dependent protein deacetylase sirtuin-2,SIR2_HUMAN,Q8IXJ6,151,nad_dependent_protein_deacetylase_sirtuin_2,./denise_epigenetics/decoys_nad_dependent_protein_deacetylase_sirtuin_2.sdf
+16024,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",SIR3_HUMAN,Q9NTG7,46,nad_dependent_protein_deacetylase_sirtuin_3_mitochondrial,./Others_Denise/decoys_nad_dependent_protein_deacetylase_sirtuin_3_mitochondrial.sdf
+16333,Histone-lysine N-methyltransferase SMYD3,SMYD3_HUMAN,Q9H7B4,33,histone_lysine_n_methyltransferase_smyd3,./denise_epigenetics/decoys_histone_lysine_n_methyltransferase_smyd3.sdf
+18327,Transcription intermediary factor 1-alpha,TIF1A_HUMAN,O15164,40,transcription_intermediary_factor_1_alpha,./denise_epigenetics/decoys_transcription_intermediary_factor_1_alpha.sdf

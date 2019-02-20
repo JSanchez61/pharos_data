@@ -1,2 +1,3 @@
-# pharos_data
-Mining data from Pharos
+# Notebooks and scripts for mining data from Pharos
+
+

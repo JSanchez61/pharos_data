@@ -1,0 +1,36 @@
+id,description,name,uniprot,num_actives,name_fmt,path
+139,Acetyl-coenzyme A transporter 1,ACATN_HUMAN,O00400,151,acetyl_coenzyme_a_transporter_1,
+616,ATP-binding cassette sub-family G member 2,ABCG2_HUMAN,Q9UNQ0,255,atp_binding_cassette_sub_family_g_member_2,./daniel_transporters/decoys_atp_binding_cassette_sub_family_g_member_2.sdf
+4850,Excitatory amino acid transporter 2,EAA2_HUMAN,P43004,40,excitatory_amino_acid_transporter_2,./daniel_transporters/decoys_excitatory_amino_acid_transporter_2.sdf
+4893,Excitatory amino acid transporter 1,EAA1_HUMAN,P43003,30,excitatory_amino_acid_transporter_1,./denise_transporters/decoys_excitatory_amino_acid_transporter_1.sdf
+4894,Excitatory amino acid transporter 3,EAA3_HUMAN,P43005,26,excitatory_amino_acid_transporter_3,./denise_transporters/decoys_excitatory_amino_acid_transporter_3.sdf
+6936,"Solute carrier family 2, facilitated glucose transporter member 1",GTR1_HUMAN,P11166,50,solute_carrier_family_2_facilitated_glucose_transporter_member_1,./daniel_transporters/decoys_solute_carrier_family_2_facilitated_glucose_transporter_member_1.sdf
+7272,"Solute carrier family 2, facilitated glucose transporter member 3",GTR3_HUMAN,P11169,37,solute_carrier_family_2_facilitated_glucose_transporter_member_3,./daniel_transporters/decoys_solute_carrier_family_2_facilitated_glucose_transporter_member_3.sdf
+9948,Multidrug resistance protein 1,MDR1_HUMAN,P08183,746,multidrug_resistance_protein_1,
+10510,Multidrug resistance-associated protein 1,MRP1_HUMAN,P33527,150,multidrug_resistance_associated_protein_1,
+10742,Sodium/calcium exchanger 1,NAC1_HUMAN,P32418,307,sodiumcalcium_exchanger_1,
+10935,Monocarboxylate transporter 1,MOT1_HUMAN,P53985,89,monocarboxylate_transporter_1,
+11240,Natural resistance-associated macrophage protein 2,NRAM2_HUMAN,P49281,32,natural_resistance_associated_macrophage_protein_2,./daniel_transporters/decoys_natural_resistance_associated_macrophage_protein_2.sdf
+11706,Proton-coupled folate transporter,PCFT_HUMAN,Q96NT5,26,proton_coupled_folate_transporter,./denise_transporters/decoys_proton_coupled_folate_transporter.sdf
+11838,Ileal sodium/bile acid cotransporter,NTCP2_HUMAN,Q12908,223,ileal_sodiumbile_acid_cotransporter,
+15088,Sodium-dependent dopamine transporter,SC6A3_HUMAN,Q01959,2321,sodium_dependent_dopamine_transporter,
+15089,Sodium-dependent serotonin transporter,SC6A4_HUMAN,P31645,4309,sodium_dependent_serotonin_transporter,
+15091,Sodium-dependent proline transporter,SC6A7_HUMAN,Q99884,39,sodium_dependent_proline_transporter,./daniel_transporters/decoys_sodium_dependent_proline_transporter.sdf
+15195,Folate transporter 1,S19A1_HUMAN,P41440,19,folate_transporter_1,./denise_transporters/decoys_folate_transporter_1.sdf
+15335,Solute carrier family 22 member 12,S22AC_HUMAN,Q96S37,255,solute_carrier_family_22_member_12,./daniel_transporters/decoys_solute_carrier_family_22_member_12.sdf
+15347,Long-chain fatty acid transport protein 1,S27A1_HUMAN,Q6PCB7,37,long_chain_fatty_acid_transport_protein_1,./daniel_transporters/decoys_long_chain_fatty_acid_transport_protein_1.sdf
+15364,Solute carrier family 40 member 1,S40A1_HUMAN,Q9NP59,28,solute_carrier_family_40_member_1,./daniel_transporters/decoys_solute_carrier_family_40_member_1.sdf
+15369,Multidrug and toxin extrusion protein 1,S47A1_HUMAN,Q96FL8,18,multidrug_and_toxin_extrusion_protein_1,./denise_transporters/decoys_multidrug_and_toxin_extrusion_protein_1.sdf
+15387,Sodium-dependent noradrenaline transporter,SC6A2_HUMAN,P23975,2873,sodium_dependent_noradrenaline_transporter,
+15388,Sodium- and chloride-dependent glycine transporter 1,SC6A9_HUMAN,P48067,569,sodium__and_chloride_dependent_glycine_transporter_1,
+15489,Long-chain fatty acid transport protein 4,S27A4_HUMAN,Q6P1M0,16,long_chain_fatty_acid_transport_protein_4,
+15514,Sodium/glucose cotransporter 1,SC5A1_HUMAN,P13866,707,sodiumglucose_cotransporter_1,
+15515,Sodium/glucose cotransporter 2,SC5A2_HUMAN,P31639,1182,sodiumglucose_cotransporter_2,
+15516,Solute carrier family 5 member 4,SC5A4_HUMAN,Q9NY91,30,solute_carrier_family_5_member_4,
+15522,Sodium- and chloride-dependent GABA transporter 1,SC6A1_HUMAN,P30531,71,sodium__and_chloride_dependent_gaba_transporter_1,
+15523,Sodium- and chloride-dependent glycine transporter 2,SC6A5_HUMAN,Q9Y345,62,sodium__and_chloride_dependent_glycine_transporter_2,
+15570,Solute carrier family 13 member 5,S13A5_HUMAN,Q86YT5,20,solute_carrier_family_13_member_5,
+15734,Equilibrative nucleoside transporter 1,S29A1_HUMAN,Q99808,250,equilibrative_nucleoside_transporter_1,./daniel_transporters/decoys_equilibrative_nucleoside_transporter_1.sdf
+15737,Equilibrative nucleoside transporter 4,S29A4_HUMAN,Q7RTT9,18,equilibrative_nucleoside_transporter_4,
+16508,Sodium/hydrogen exchanger 1,SL9A1_HUMAN,P19634,173,sodiumhydrogen_exchanger_1,
+18518,Vesicular acetylcholine transporter,VACHT_HUMAN,Q16572,198,vesicular_acetylcholine_transporter,./daniel_transporters/decoys_vesicular_acetylcholine_transporter.sdf
